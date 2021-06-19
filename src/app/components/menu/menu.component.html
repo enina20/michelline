@@ -1,0 +1,24 @@
+<section class="menu" id="menu">
+  <div class="title">
+      <h2 class="titleText"><span>S</span>abemos que te <span>E</span>ncantara</h2>
+      <p>Endulzar nuestras vidas es mas facil con Michelline</p>
+  </div>
+  <div class="content">
+    <div class="box" *ngFor="let dessert of dessert">
+      <div class="imgBx">
+        <img src="{{dessert.img}}" alt="">
+    </div>
+    <div class="text">
+        <h3>Torta de cacao</h3>
+        <h6>Torta a base de dulce de leche y cacao negro</h6>
+        <p>{{dessert.precio}}</p>
+        <a [routerLink]="['/producto', '{{dessert.id}}']" class="btn"><span>Ver detalles</span></a>
+    </div>
+
+
+    </div>
+  </div>
+  <div class="title">
+    <a routerLink="/productos" class="btn2">Ver todo</a>
+  </div>
+</section>
