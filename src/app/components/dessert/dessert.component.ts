@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 import { DessertsService, dessert } from 'src/app/services/desserts.service';
 
 @Component({
@@ -10,10 +11,16 @@ export class DessertComponent implements OnInit {
 
   dessert:dessert[]=[];
 
-  constructor( private dessertService: DessertsService) { }
+  constructor( private router:Router,
+               private dessertService: DessertsService) { }
 
   ngOnInit(): void {
     this.dessert = this.dessertService.getDesserts();
+  }
+
+  seeOneDessert(dessert:dessert){
+    console.log(dessert.id);
+    this.router.navigate(['/producto', dessert.id]);
   }
 
 }

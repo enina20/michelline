@@ -98,6 +98,10 @@ export class DessertsService {
   getDesserts(){
     return this.desserts
   }
+
+  getDessert( id: number){
+    return this.desserts[id-1]
+  }
 }
 
 export interface dessert{

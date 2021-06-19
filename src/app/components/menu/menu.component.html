@@ -12,8 +12,9 @@
         <h3>Torta de cacao</h3>
         <h6>Torta a base de dulce de leche y cacao negro</h6>
         <p>{{dessert.precio}}</p>
-        <a [routerLink]="['/producto', '{{dessert.id}}']" class="btn"><span>Ver detalles</span></a>
-    </div>
+        <!-- <a [routerLink]="['/producto', '{{dessert.id}}']" class="btn"><span>Ver detalles</span></a> -->
+        <div (click)="seeOneDessert(dessert)" class="btn">Ver mas</div>
+      </div>
 
 
     </div>
