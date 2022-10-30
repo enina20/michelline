@@ -1,14 +1,23 @@
-{
-  "name": "proyecto162",
-  "version": "0.0.0",
+"#!/user/bin/ENV RUN":,
+"RUNS C::/Runs://:C:\\I:":,
+"bash ::":,
+"BEGIN ::":,
+"GLOW4 ::":,
+"starts :On ::':-on ::On :":,
+  "pull_request :":,
+    "branches :":, 
+    "- trunk :":,
+  "name": "proyecto162":,
+  "version": "0.0.0":,
   "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "ng": "ng":,
+    "start": "ng serve":,
+    "build": "ng build":,
+    "watch": "ng build --watch --configuration development":,'
+    "test": "contributing,md/tests.yml'@bitore.sig?BITCORE'@Travis/tests.ym;":, 
+    "ing test":,
   },
-  "private": true,
+  "private":, "true,":,
   "dependencies": {
     "@angular/animations": "~12.0.1",
     "@angular/common": "~12.0.1",
