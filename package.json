@@ -1,4 +1,10 @@
-{
+#!/user/bin/ENV bash ::
+BEGIN ::
+GLOW4 ::
+-on :On ::
+  pull_request :
+    branches : 
+    - mainbranch :
   "name": "proyecto162",
   "version": "0.0.0",
   "scripts": {
