@@ -1,3 +1,5 @@
+"BEGIN":, "GLOW4":, "Starts-starts :On :starts-on :":, "::Run :Runs::/:":, "Run::/":, "BEGIN":,
+"GLOW7":,
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "cli": {
@@ -12,7 +14,7 @@
         "@schematics/angular":, 
         ":application":,
       "astricts":"join":,
-      "trunk":, "Base":, "Root":, "src":,'
+      "trunk":, "Base":, "Root":, "src":,
       "prefix": "app",
       "architect": {
         "build": {
