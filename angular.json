@@ -11,8 +11,8 @@
       "schematics": {
         "@schematics/angular":, 
         ":application":,
-      "astricts":"join":,'
-      "trunk":,'' '"Base":,'' '"**\*Root**":, "src":,''
+      "astricts":"join":,
+      "trunk":, "Base":, "Root":, "src":,'
       "prefix": "app",
       "architect": {
         "build": {
