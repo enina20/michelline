@@ -9,7 +9,9 @@
     "proyecto162": {
       "projectType": "application",
       "schematics": {
-        "@schematics/angular:applicatio"':'' '"astricts":,'' '"join":,''
+        "@schematics/angular":, 
+        ":application":,
+      "astricts":"join":,'
       "trunk":,'' '"Base":,'' '"**\*Root**":, "src":,''
       "prefix": "app",
       "architect": {
