@@ -14,9 +14,10 @@
     "start": "ng serve":,
     "build": "ng build":,
     "watch": "ng build --watch --configuration development":,'
-    "test": "ng test":,
+    "test": "contributing,md/tests.yml'@bitore.sig?BITCORE'@Travis/tests.ym;":, 
+    "ing test":,
   },
-  "private": true,":,
+  "private":, "true,":,
   "dependencies": {
     "@angular/animations": "~12.0.1",
     "@angular/common": "~12.0.1",
