@@ -1,4 +1,10 @@
-On:starts-on:On :On ::
+":# ## :# ::BEGIN::Run::?Script::/Start :ON-starts :-on :starts-on",: "'"'"'":,''
+'"::(Currency)[AMOUNT=](VALUE=)[VOLUME]([12753750.[00]m](BITORE_34173.1337)$)":,''
+ : '"PAY_$LOAD/do." }":''
+  // system beep to notify error or completion
+ "content/.util/intuit/toolkit/OCTOCOKIT/toolbox ::":,''
+ '"Console.logs :*log.caches/.dist/index/.dir/src/code'@sun/java/.org/install/installer/WIZARD ::Gemfile= new== "$ Obj=: new ::":,((R));
+}-on:On :On ::
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
