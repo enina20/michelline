@@ -27,3 +27,9 @@ index 092345b..7e9b3b4 100644
    "files": [
      "src/test.ts",
      "src/polyfills.ts"
+'"'{' 'require' ':' 'test' '}''
+':Build::'
+PUBLISH ''
+'LAUNCH''
+DEPLOYEE"'
+RELEASE''
