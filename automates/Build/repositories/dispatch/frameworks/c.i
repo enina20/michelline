@@ -704,7 +704,3094 @@ ReplyForward
 +(Administrative & Law)
 +1500 Pennsylvania Avenue
 +Washington, D.C. 20220						
-						
+
+Purchases :
+Script :{Lists("ALL)":,}
+EMPLOYMENT VERIFICATION LETTER
+
+INSTRUCTIONS
+
+ADP Logo
+Help
+ 
+ZT
+Almost there, Zachry
+There is still missing information that needs your attention before you can submit.
+
+1 of 2
+
+Tell us about your business is incomplete.
+
+Update now
+Once you complete all the required information, the last step will be to review the fee schedule below and accept our Client Account Agreement, also below.
+
+Your cost
+Per month
+$79
+Per employee
++ $4
+First 3 months FREE*
+Total due today
+$0
+Your account includes payroll for 1099 and W-2 employees, tax filing, creation and delivery of W-2s, direct deposit, online access for employees, and much more!
+
+Your free trial will start once you click Submit below. You won’t be charged anything right now.
+
+After 10/21/2022, Automatic Data Processing Inc will be charged $79 + $4 per employee, for a total of $91 each month.
+
+*See full terms and conditions.
+
+Review agreements
+Lastly, please read and review your Client Account Agreement. This will kick off the account review process, where our team combs through your account information to ensure that you’re all set to run your first payroll.
+
+I have read and accept the Client Account Agreement
+
+If you require additional features, incremental fees may be added to your monthly subscription. Here are some of the 
+
+potential features
+ that may be required, along with their associated fees.
+
+Back
+
+Save for later
+
+Finish & submit
+Step 7 of 7
+Review our agreement
+×
+Client Account Agreement and Authorization to Debit/Credit
+With respect to the services for which ADP, Inc. ("ADP") has been engaged as described in the services agreement or other understanding between ADP and Client (each, a "Service" and collectively the "Services"), Client agrees to the debit method listed below for collection of(1) payroll tax and penalty obligations related to ADPs Tax Filing Services or ACA Penalty Management Services, (2) payroll obligations related to ADPs ALINE Pay, Workers Compensation, FSDD, ADPCheck, ALINE Pay Card and/or Instant Pay Services, and/or (3) wage garnishment deduction amounts related to ADPs WGPS Services, and Client agrees to the ACH debit method listed below for collection of the applicable fees for the Services, all pursuant to this Client Account Agreement and Authorization to Debit/Credit, and the provisions of Exhibit A attached hereto and incorporated by reference herein (this "Agreement"). Such debits will be initiated by ADP out of Clients applicable account specified below (the "DDA Account") at the financial institution specified below ("BANK").Additional authorizations may be required by CLIENTs BANK(s) authorizing reverse wire and/or ACH (fees for services) transactions. Client understands and acknowledges that the implementation and ongoing provision of Services are conditioned upon Client passing (and continuing to pass) a credentialing process that ADP may deem necessary in connection with the provision of Services.
+
+DEBIT METHOD
+
+ACH
+BANK is authorized to charge the DDA ACCOUNT in accordance with the ACH provisions of this Agreement. NOTE: CLIENT electing ACH may be contacted by an ADP representative to make arrangements for a wire transfer of funds for impounds exceeding the established dollar limit for processing by ACH. Such dollar limit shall be determined by ADP in its sole discretion.
+
+REVERSE WIRE
+ADP will initiate request for a wire transfers of funds from the DDA ACCOUNT indicated below in accordance with the Reverse Wire provisions of this Agreement. Each applicable BANK is authorized to charge the applicable DDA Account in accordance with the Reverse Wire provisions of this Agreement.
+
+REVERSE WIRE (OVER ACH LIMIT)
+In the event a single impound exceeds the established threshold for ACH processing, CLIENT agrees that ADP may initiate a request for a wire transfer of funds from the DDA ACCOUNT in accordance with the Reverse Wire instructions on the back of this Agreement.
+
+BANK INFORMATION
+ADP will initiate ACH debits Payroll taxes and FSDD from the DDA Account indicated during the online Company Bank Account setup in accordance with the ACH provisions of this Agreement. The applicable BANK is authorized to charge the applicable DDA Account in accordance with the ACH provisions of this Agreement.
+
+ACH FEES FOR SERVICES
+ADP will initiate ACH debits for its Fees for Services from the DDA Account indicated during the online Company Bank Account setup in accordance with the ACH provisions of this Agreement. The applicable BANK is authorized to charge the applicable DDA Account in accordance with the ACH provisions of this Agreement.
+
+In consideration of each BANK’s compliance with this authorization, CLIENT agrees that such BANK’s treatment of any charge, and such BANK’s rights with respect thereto, shall be the same as if the charge were initiated personally by CLIENT, and that if any charge is dishonored, whether with or without cause, such BANK shall be under no liability whatsoever. In addition, CLIENT authorizes ADP to credit the applicable DDA ACCOUNT when necessary, at ADP’s sole discretion, for any refund or credit amount due CLIENT.
+
+CLIENT acknowledges and agrees that (i) ADP Payroll Services Inc. (“ADPPSI”), a licensed money transmitter, is responsible for providing the money transmission services hereunder and is a party to this Agreement and (ii) ADP’s provision of services hereunder shall be deemed acceptance of this Agreement by ADP and ADPPSI. Exhibit B, to the extent applicable, contains information related to how to file a complaint in connection with the money transmission services.
+
+In the event of any conflict between the terms and conditions of this Agreement and the terms and conditions of any other agreement, this Agreement shall control. CLIENT acknowledges and agrees that, notwithstanding anything to the contrary, CLIENT’S right to refund under any State law shall first be subject to any offset for funds due to ADP with respect to any previous transactions completed on Client’s behalf by ADP, and subject to the terms and conditions of this Agreement and any other agreement between CLIENT and ADP.
+
+This authorization shall remain in effect unless and until revoked in writing by an authorized representative of CLIENT and until the applicable BANK(s) and ADP have each received such notice and have had reasonable time to act upon such notice.
+
+REVERSE WIRE
+CLIENT understands that funds representing the total of (i) CLIENTs payroll tax obligations for the applicable payroll (if CLIENT receives ADP’s Tax Filing Services), (ii) CLIENTs wage payment obligations for the applicable payroll (if CLIENT receives ADP’s FSDD, ADPCheck, Aline Pay, Instant Pay Services or Workers Compensation), (iii) CLIENTs wage garnishment deduction obligations with respect to CLIENTs employees for the applicable payroll (if CLIENT receives ADP’s WGPS or Garnishment Services), (iv) CLIENTs electronic business tax deposit obligations (if CLIENT receives ADP’s Electronic Business Tax Services), must be on deposit in the applicable DDA Account no later than the applicable date(s) specified within the contractual agreement between ADP and CLIENT for the applicable services. ADP will cause such funds to be wire transferred from the DDA Account to one of the following accounts located at the banks listed below on such specified funding date (unless and until changed by notice from ADP). In consideration for the additional costs incurred by ADP in providing wire transfer service, Client agrees to pay a reasonable fee for each wire transfer.
+
+ALINE Pay, FSDD, ADPCheck, WGPS, Garnishment Services, EBTS, Benefit Services, Other
+
+Bank	Bank Address	Account Name	ABA	DDA	Collection Method
+JPMorgan Chase	One Chase Manhattan Plaza
+New York, NY 10005	ADP Tax Services	021000021	323269036	Reverse Wire Impound
+Deutsche Bank	60 Wall Street
+New York, NY 10005-2858	ADP Tax Services	021001033	00416217	Reverse Wire Impound
+
+Tax & 401(k)
+
+Bank	Bank Address	Account Name	ABA	DDA	Collection Method
+JPMorgan Chase	One Chase Manhattan Plaza
+New York, NY 10005	ADP Tax Services	021000021	9102628675	Reverse Wire Impound
+
+Deutsche Bank	60 Wall Street
+New York, NY 10005-2858	ADP Tax Services	021001033	00153170	Reverse Wire Impound
+
+Workers Compensation
+
+Bank	Bank Address	Account Name	ABA	DDA	Collection Method
+JPMorgan Chase	One Chase Manhattan Plaza
+New York, NY 10005	ADP Tax Services	021000021	304939315	Reverse Wire Impound
+
+NOTICE
+CLIENT acknowledges that if sufficient funds are not available by the date required pursuant to the foregoing provisions of this Agreement, (1) CLIENT will immediately become solely responsible for all tax deposits and filings, all employee wages, all wage garnishments, all CLIENT third- party payments (e.g., vendor payments) and all related penalties and interest due then and thereafter, (2) any and all ADP Services may, at ADP’s option, be immediately terminated, (3) neither BANK nor ADP will have any further obligation to CLIENT or any third party with respect to any such Services and (4) ADP may take such action as it deems appropriate to collect ADP’s Fees for Services.
+
+Client shall not initiate any ACH transactions utilizing ADP’s services that constitute International ACH transactions without first (i) notifying ADP of such IAT transactions in writing utilizing ADP’s Declaration of International ACH Transaction form (or such other form as directed by ADP) and (ii) complying with the requirements applicable to IAT transactions. ADP shall not be liable for any delay or failure in processing any ACH transaction due to Client’s failure to so notify ADP of Client’s IAT transactions or Client’s failure to comply with applicable IAT requirements.
+
+EXHIBIT A
+The provisions set forth in this Exhibit A shall be incorporated by reference into the Client Account Agreement and Authorization to Debit/Credit (Reverse Wire) (the “Agreement”). Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Agreement or the NACHA Operating Rules & Guidelines, as the same may be amended from time to time (the “NACHA Rules”), as applicable.
+
+CLIENT, as an Originator, makes the following representations, warranties, covenants, certifications, authorizations and acknowledgments:
+
+(i) CLIENT (1) agrees to be bound by and warrants it will comply with the NACHA Rules, as the same may be amended from time to time, (2) warrants it will not submit Entries that violate the laws of the United States, (3) warrants it will comply with all U.S. laws, rules and regulations, including, as applicable, laws, rules and regulations applicable to IAT Entries (including those of the Office of Foreign Assets Control (OFAC) and the Financial Crimes Enforcement Network), (4) acknowledges and agrees that ADP shall have the right to audit CLIENT’S compliance with the provisions of this Exhibit A, the Agreement and the NACHA Rules, and (5) acknowledges and agrees that ADP shall have the right to suspend or terminate initiating ACH transactions immediately upon notice to CLIENT in the event CLIENT breaches any of the NACHA Rules; (ii) CLIENT (1) certifies that it has not been suspended and does not appear on a National Association list of suspended Originators, and (2) warrants that it will not transmit any Entry if it has been suspended or appears on a National Association list of suspended Originators; (iii) CLIENT authorizes ADP to initiate Entries on behalf of CLIENT to its Receivers’ accounts and CLIENT agrees to be financially responsible to Originating Depository Financial Institution (“BANK”) for all Entries initiated by ADP on CLIENT’S behalf; (iv) CLIENT acknowledges and agrees that ADP and BANK (1) may restrict certain types of Entries, (2) shall have the right to reject any Entry or series of Entries, and (3) shall have the right to reverse Erroneous Entries; (v) CLIENT represents, warrants and certifies that (1) prior to submission, each Entry has been properly authorized by CLIENT and the Receiver in accordance with the NACHA Rules, including, but not limited to (a) the authorization has not been revoked, (b) the Agreement has not been terminated, (c) CLIENT has no knowledge of the revocation of the Receiver’s authorization or termination of the agreement between the Receiver and the RDFI concerning the Entry, and (d) at the time the Entry is processed by a RDFI, the authorization for that Entry has not been terminated, in whole or in part, by operation of law, (2) CLIENT will retain all authorizations for a minimum of two (2) years following termination or revocation of the authorization, and (3) CLIENT will provide a copy of such authorization to ADP or BANK upon request; (vi) CLIENT represents, warrants and certifies that (1) all credit and debit Entries will be accurate and timely, and (2) each Entry will contain all information required by the NACHA Rules for specific Entry types, including, but not limited to, the Receiver’s correct account number, dollar amount of the Entry, CLIENT’S Name, CLIENT’S Entry description; (vii) CLIENT acknowledges and agrees that (1) CLIENT shall be responsible for promptly detecting and correcting any errors, (2) any Entry sent to ADP that identifies the Receiver inconsistently by name and account number may be processed by BANK based solely on the account number provided, (3) ADP is authorized to take such measures as ADP deems appropriate to carry out the intent of CLIENT in completing any particular Entry, including, but not limited to, ADP may contact CLIENT or may attempt to retransmit any Return Entry, and (4) subject to any limitations set forth in the applicable client services agreement with ADP, CLIENT shall indemnify ADP, its parent, subsidiaries, predecessors, successors, affiliates, directors, officers, fiduciaries, insurers, employees and agents, for any claim, demand, loss, liability or expense (including reasonable attorneys’ fees, penalties, fines or interest) resulting from the debiting or crediting of any Entry or a breach of the Agreement (including the provisions of this Exhibit A); (viii) CLIENT agrees to implement and maintain safeguards to protect against (1) any unauthorized access to confidential information being stored, processed or transmitted in connection with Entries, and (2) submission of fraudulent Entries purportedly on CLIENT’S behalf; and (ix) CLIENT represents and warrants, to the extent applicable, that (1) the origination of each IAT Entry shall comply with the laws and payment systems rules of the receiving country, and (2) any submission by CLIENT requiring initiation of an IAT Entry by ADP shall include the name and physical address of each of CLIENT and the Receiver, the account number of the Receiver and the identity of the Receiver’s bank, bank ID number and bank branch code.
+
+EXHIBIT B
+California Clients see below for information about filing complaints about the money transmission service: If you have any complaints regarding money transmission activities, please contact California Department of Business Oversight at: Department of Business Oversight Attn: Consumer Services 1515 K Street, Suite 200 Sacramento, CA 95814 Telephone: (866) 275-2677 Email: consumer.complaint@dbo.ca.gov
+Instructions
+
+Delete this first page of instructions before using your template
+Fields [in brackets] are placeholders for your information. Please replace this for your use case.
+This template is provided “as is.” Please consult your own legal counsel before use.
+
+
+Zenefits Disclaimer
+
+This template is provided to assist you in developing your company’s HR document library and should be customized to meet your company’s needs. While we strive to provide useful general information Zenefits does not—and cannot—provide legal advice specific to your company and your situation. If you have specific legal questions or concerns, we encourage you to discuss them with your legal advisor. Zenefits provides this template as-is, without any warranties, and without establishing any client relationship or other obligations to you or your company.
+
+
+
+
+
+ Please remove this instructional page before use
+
+
+
+
+
+EMPLOYMENT VERIFICATION
+
+[Company Logo]
+
+[Curreent date]
+
+Re: Employment Verification for [Employee Name]
+PpTo Whom It May Concern:
+
+This letter is to certify that [Full Name] [is/was] an employee at [Company Name] and [is/was] working as a full-time [Job Title] since [Start Date] to [Term Date]. [His/Her] gross salary [is/was] $[Amount] per annum. 
+
+If you have any questions regarding Mr. WOOD’s employment, please contact our office at HR phone number.
+
+Sincerely,
+#:'#''#':Significance:Signature:: ::of:-:the:: ::authorizing: :person::']'
+
+#ZachryTylerWood'
+#Owner'
+'*"*':'' '"##: ::THIS PAGE SHOULD BE FILLED OUT BY YOUR BANKER OR BESIDE YOU'
+BANKER::
+
+Company Name. 
+Relationship Manager:
+Treasury Management Officer:
+
+Please link your flow of funds:
+
+BELOW FOR BANK TEAM TO FILL OUT:
+
+What kind of account(s) does [Company Name] have? 
+To ensure the customer has the right account(s) enabled in order to implement with Modern Treasury
+Corporate is the ONLY account type capable of working with Modern Treasury.
+
+What type of account(s) does the customer have with JPMC? 
+Commercial
+Not Commercial? Will need the customer's account moved to Commercial.
+
+Product Enablement for Modern Treasury Connectivity : Let’s make sure the account(s) is/are ready to implement with Modern Treasury.
+ACCESS must be enabled in order to integrate with Modern Treasury.
+Does the customer have the correct product enabled for their account(s)?: Yes/No (Please Circle)
+Yes 
+No, Please enable ACCESS for the necessary account(s). 
+
+What payment rails are enabled for [Company Name] accounts?
+Let’s ensure the customer has the correct payment rails enabled for their business flow of funds. 
+'- '[22/7'] Account Number : (check off what is needed only)
+ACH
+USD Wires
+Non-USD Wires
+Lockbox
+Check-Print
+Reporting [Enablement required for all accounts]
+Account Reconciliation : Previous/Intra-day BAI2
+Balance Files
+Incoming ACH
+
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zakwarlord7 
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+zakwarlord7
+/
+deno
+Public
+forked from hayd/deno
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+refactor(bench): continuous benchmarking improvements (denoland#14821)
+ master
+@littledivy
+littledivy committed on Jun 28 
+1 parent 00f4521 commit ab11b45d1d2678cfea2217ac72fc24317eef777d
+Show file tree Hide file tree
+Showing 11 changed files with 531 additions and 169 deletions.
+ 43  
+.github/workflows/bench_cron.yml
+@@ -0,0 +1,43 @@
+name: bench
+
+on:
+  # Runs at minute 9 past hour 0, 6, 12, and 18.
+  schedule:
+    - cron: 9 0,6,12,18 * * *
+  workflow_dispatch:
+
+jobs:
+  bench:
+    name: bench / ${{ matrix.os }} / ${{ matrix.deno-version }}
+    if: github.repository == 'denoland/deno'
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-20.04-xl]
+
+    env:
+      CARGO_TERM_COLOR: always
+      RUST_BACKTRACE: full
+      CI: true
+      GOOGLE_SVC_KEY: ${{ secrets.GOOGLE_SVC_KEY }}
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          persist-credentials: false
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Build release
+        run: cargo build --release --locked --all-targets
+
+      - name: Worker info
+        run: |
+          cat /proc/cpuinfo
+          cat /proc/meminfo
+      - name: Run and Post benchmarks
+        run: cargo bench --locked
+  2  
+.github/workflows/ci.yml
+@@ -603,4 +603,4 @@ jobs:
+      - name: Upload canary version file to dl.deno.land
+        run: |
+          echo ${{ github.sha }} > canary-latest.txt
+          gsutil -h "Cache-Control: no-cache" cp canary-latest.txt gs://dl.deno.land/canary-latest.txt
+          gsutil -h "Cache-Control: no-cache" cp canary-latest.txt gs://dl.deno.land/canary-latest.txt
+ 1  
+.gitignore
+@@ -1,6 +1,7 @@
+*.orig
+*.pyc
+*.swp
+.env
+
+/.cargo_home/
+/.idea/
+ 269  
+Cargo.lock
+@@ -354,6 +354,18 @@ dependencies = [
+ "alloc-stdlib",
+]
+
+[[package]]
+name = "bstr"
+version = "0.2.17"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ba3569f383e8f1598449f1a423e72e99569137b47740b1da11ef19af3d5c3223"
+dependencies = [
+ "lazy_static",
+ "memchr",
+ "regex-automata",
+ "serde",
+]
+
+[[package]]
+name = "bumpalo"
+version = "3.10.0"
+@@ -617,6 +629,28 @@ dependencies = [
+ "typenum",
+]
+
+[[package]]
+name = "csv"
+version = "1.1.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "22813a6dc45b335f9bade10bf7271dc477e81113e89eb251a0bc2a8a81c536e1"
+dependencies = [
+ "bstr",
+ "csv-core",
+ "itoa 0.4.8",
+ "ryu",
+ "serde",
+]
+
+[[package]]
+name = "csv-core"
+version = "0.1.10"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "2b2466559f260f48ad25fe6317b3c8dac77b5bdb5763ac7d9d6103530663bc90"
+dependencies = [
+ "memchr",
+]
+
+[[package]]
+name = "ctor"
+version = "0.1.22"
+@@ -735,6 +769,7 @@ dependencies = [
+ "clap",
+ "clap_complete",
+ "clap_complete_fig",
+ "csv",
+ "data-url",
+ "deno_ast",
+ "deno_bench_util",
+@@ -747,6 +782,7 @@ dependencies = [
+ "deno_snapshots",
+ "deno_task_shell",
+ "dissimilar",
+ "dotenv",
+ "dprint-plugin-json",
+ "dprint-plugin-markdown",
+ "dprint-plugin-typescript",
+@@ -756,19 +792,20 @@ dependencies = [
+ "fancy-regex",
+ "flaky_test",
+ "fwdansi",
+ "google-storage1",
+ "http",
+ "import_map",
+ "indexmap",
+ "jsonc-parser",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "mitata",
+ "nix",
+ "node_resolver",
+ "notify",
+ "once_cell",
+ "os_pipe",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+ "pin-project",
+ "pretty_assertions",
+ "rand",
+@@ -827,7 +864,7 @@ dependencies = [
+ "swc_ecma_utils",
+ "swc_ecma_visit",
+ "text_lines",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -836,6 +873,7 @@ version = "0.52.0"
+dependencies = [
+ "bencher",
+ "deno_core",
+ "once_cell",
+ "tokio",
+]
+
+@@ -866,7 +904,7 @@ dependencies = [
+ "futures",
+ "indexmap",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "once_cell",
+ "parking_lot 0.12.1",
+ "pin-project",
+@@ -875,7 +913,7 @@ dependencies = [
+ "serde_v8",
+ "sourcemap",
+ "tokio",
+ "url",
+ "url 2.2.2",
+ "v8",
+]
+
+@@ -990,7 +1028,7 @@ dependencies = [
+ "serde_json",
+ "sourcemap",
+ "termcolor",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -1008,8 +1046,8 @@ dependencies = [
+ "flate2",
+ "fly-accept-encoding",
+ "hyper",
+ "mime",
+ "percent-encoding",
+ "mime 0.3.16",
+ "percent-encoding 2.1.0",
+ "phf",
+ "ring",
+ "serde",
+@@ -1027,7 +1065,7 @@ dependencies = [
+ "deno_ast",
+ "derive_more",
+ "if_chain",
+ "log",
+ "log 0.4.17",
+ "once_cell",
+ "regex",
+ "serde",
+@@ -1040,7 +1078,7 @@ version = "0.50.0"
+dependencies = [
+ "deno_core",
+ "deno_tls",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "socket2",
+ "tokio",
+@@ -1088,7 +1126,7 @@ dependencies = [
+ "http",
+ "hyper",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "lzzzz",
+ "netif",
+ "nix",
+@@ -1141,7 +1179,7 @@ dependencies = [
+ "once_cell",
+ "rustls",
+ "rustls-native-certs",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "webpki",
+ "webpki-roots",
+@@ -1297,6 +1335,12 @@ dependencies = [
+ "syn 0.15.44",
+]
+
+[[package]]
+name = "dotenv"
+version = "0.15.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "77c90badedccf4105eca100756a0b1289e191f6fcbdadd3cee1d2f614f97da8f"
+
+[[package]]
+name = "dprint-core"
+version = "0.58.2"
+@@ -1458,7 +1502,7 @@ checksum = "0b2cf0344971ee6c64c31be0d530793fba457d322dfec2810c453d0ef228f9c3"
+dependencies = [
+ "atty",
+ "humantime",
+ "log",
+ "log 0.4.17",
+ "regex",
+ "termcolor",
+]
+@@ -1521,7 +1565,7 @@ dependencies = [
+ "sha2",
+ "thiserror",
+ "tokio",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -1654,7 +1698,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5fc25a87fa4fd2094bffb06925852034d90a17f0d1e05197d4956d3555752191"
+dependencies = [
+ "matches",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+]
+
+[[package]]
+@@ -1850,6 +1894,23 @@ dependencies = [
+ "web-sys",
+]
+
+[[package]]
+name = "google-storage1"
+version = "3.1.0+20220228"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "838c83adf6e1f0e35fa17b343e32762867f8ee8ea1a63e97c5ef5efda751bab9"
+dependencies = [
+ "hyper",
+ "hyper-rustls",
+ "itertools",
+ "mime 0.2.6",
+ "serde",
+ "serde_derive",
+ "serde_json",
+ "url 1.7.2",
+ "yup-oauth2",
+]
+
+[[package]]
+name = "gpu-alloc"
+version = "0.5.3"
+@@ -2001,7 +2062,7 @@ checksum = "31f4c6746584866f0feabcc69893c5b51beef3831656a968ed7ae254cdc4fd03"
+dependencies = [
+ "bytes",
+ "fnv",
+ "itoa",
+ "itoa 1.0.2",
+]
+
+[[package]]
+@@ -2048,7 +2109,7 @@ dependencies = [
+ "http-body",
+ "httparse",
+ "httpdate",
+ "itoa",
+ "itoa 1.0.2",
+ "pin-project-lite",
+ "socket2",
+ "tokio",
+@@ -2065,7 +2126,9 @@ checksum = "d87c48c02e0dc5e3b849a2041db3029fd066650f8f717c07bf8ed78ccb895cac"
+dependencies = [
+ "http",
+ "hyper",
+ "log 0.4.17",
+ "rustls",
+ "rustls-native-certs",
+ "tokio",
+ "tokio-rustls",
+]
+@@ -2076,6 +2139,17 @@ version = "1.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b9e0384b61958566e926dc50660321d12159025e767c18e043daf26b70104c39"
+
+[[package]]
+name = "idna"
+version = "0.1.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "38f09e0f0b1fb55fdee1f17470ad800da77af5186a1a76c026b679358b7e844e"
+dependencies = [
+ "matches",
+ "unicode-bidi",
+ "unicode-normalization",
+]
+
+[[package]]
+name = "idna"
+version = "0.2.3"
+@@ -2100,10 +2174,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5247edf057fe57036112a1fec3864baa68052b52116760dbea4909115731272f"
+dependencies = [
+ "indexmap",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "serde_json",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -2208,6 +2282,12 @@ dependencies = [
+ "either",
+]
+
+[[package]]
+name = "itoa"
+version = "0.4.8"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b71991ff56294aa922b450139ee08b3bfc70982c6b2c7562771375cf73542dd4"
+
+[[package]]
+name = "itoa"
+version = "1.0.2"
+@@ -2438,6 +2518,15 @@ dependencies = [
+ "scopeguard",
+]
+
+[[package]]
+name = "log"
+version = "0.3.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e19e8d5c34a3e0e2223db8e060f9e8264aeeb5c5fc64a4ee9965c062211c024b"
+dependencies = [
+ "log 0.4.17",
+]
+
+[[package]]
+name = "log"
+version = "0.4.17"
+@@ -2467,7 +2556,7 @@ dependencies = [
+ "serde",
+ "serde_json",
+ "serde_repr",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -2525,10 +2614,19 @@ dependencies = [
+ "block",
+ "core-graphics-types",
+ "foreign-types",
+ "log",
+ "log 0.4.17",
+ "objc",
+]
+
+[[package]]
+name = "mime"
+version = "0.2.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ba626b8a6de5da682e1caa06bdb42a335aee5a84db8e5046a3e8ab17ba0a3ae0"
+dependencies = [
+ "log 0.3.9",
+]
+
+[[package]]
+name = "mime"
+version = "0.3.16"
+@@ -2551,7 +2649,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "713d550d9b44d89174e066b7a6217ae06234c10cb47819a88290d2b353c31799"
+dependencies = [
+ "libc",
+ "log",
+ "log 0.4.17",
+ "wasi 0.11.0+wasi-snapshot-preview1",
+ "windows-sys 0.36.1",
+]
+@@ -2576,7 +2674,7 @@ dependencies = [
+ "codespan-reporting",
+ "hexf-parse",
+ "indexmap",
+ "log",
+ "log 0.4.17",
+ "num-traits",
+ "rustc-hash",
+ "serde",
+@@ -2893,6 +2991,12 @@ dependencies = [
+ "base64ct",
+]
+
+[[package]]
+name = "percent-encoding"
+version = "1.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "31010dd2e1ac33d5b46a5b413495239882813e0369f8ed8a5e266f173602f831"
+
+[[package]]
+name = "percent-encoding"
+version = "2.1.0"
+@@ -3258,6 +3362,12 @@ dependencies = [
+ "regex-syntax",
+]
+
+[[package]]
+name = "regex-automata"
+version = "0.1.10"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "6c230d73fb8d8c1b9c0b3135c5142a8acee3a0558fb8db5cf1cb65f8d7862132"
+
+[[package]]
+name = "regex-syntax"
+version = "0.6.26"
+@@ -3305,20 +3415,20 @@ dependencies = [
+ "ipnet",
+ "js-sys",
+ "lazy_static",
+ "log",
+ "mime",
+ "percent-encoding",
+ "log 0.4.17",
+ "mime 0.3.16",
+ "percent-encoding 2.1.0",
+ "pin-project-lite",
+ "rustls",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "serde_json",
+ "serde_urlencoded",
+ "tokio",
+ "tokio-rustls",
+ "tokio-util",
+ "tower-service",
+ "url",
+ "url 2.2.2",
+ "wasm-bindgen",
+ "wasm-bindgen-futures",
+ "web-sys",
+@@ -3458,7 +3568,7 @@ version = "0.20.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5aab8ee6c7097ed6057f43c187a62418d0c05a4bd5f18b3571db50ee0f9ce033"
+dependencies = [
+ "log",
+ "log 0.4.17",
+ "ring",
+ "sct",
+ "webpki",
+@@ -3471,11 +3581,20 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0167bac7a9f490495f3c33013e7722b53cb087ecbe082fb0c6387c96f634ea50"
+dependencies = [
+ "openssl-probe",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "schannel",
+ "security-framework",
+]
+
+[[package]]
+name = "rustls-pemfile"
+version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1ee86d63972a7c661d1536fefe8c3c8407321c3df668891286de28abcd087360"
+dependencies = [
+ "base64 0.13.0",
+]
+
+[[package]]
+name = "rustls-pemfile"
+version = "1.0.0"
+@@ -3496,7 +3615,7 @@ dependencies = [
+ "clipboard-win",
+ "fd-lock",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "memchr",
+ "nix",
+ "radix_trie",
+@@ -3565,6 +3684,12 @@ dependencies = [
+ "untrusted",
+]
+
+[[package]]
+name = "seahash"
+version = "4.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1c107b6f4780854c8b126e228ea8869f4d7b71260f962fefb57b996b8959ba6b"
+
+[[package]]
+name = "sec1"
+version = "0.3.0"
+@@ -3668,7 +3793,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9b7ce2b32a1aed03c558dc61a5cd328f15aff2dbc17daad8fb8af04d2100e15c"
+dependencies = [
+ "indexmap",
+ "itoa",
+ "itoa 1.0.2",
+ "ryu",
+ "serde",
+]
+@@ -3691,7 +3816,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d3491c14715ca2294c4d6a88f15e84739788c1d030eed8c110436aafdaa2f3fd"
+dependencies = [
+ "form_urlencoded",
+ "itoa",
+ "itoa 1.0.2",
+ "ryu",
+ "serde",
+]
+@@ -3818,7 +3943,7 @@ dependencies = [
+ "rustc_version 0.2.3",
+ "serde",
+ "serde_json",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -3985,7 +4110,7 @@ dependencies = [
+ "swc_visit",
+ "tracing",
+ "unicode-width",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -4421,7 +4546,7 @@ dependencies = [
+ "pretty_assertions",
+ "pty",
+ "regex",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "serde_json",
+ "tokio",
+@@ -4490,6 +4615,7 @@ checksum = "c2702e08a7a860f005826c6815dcac101b19b5eb330c27fe4a5928fec1d20ddd"
+dependencies = [
+ "libc",
+ "num_threads",
+ "serde",
+]
+
+[[package]]
+@@ -4567,7 +4693,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e80b39df6afcc12cdf752398ade96a6b9e99c903dfdc36e53ad10b9c366bca72"
+dependencies = [
+ "futures-util",
+ "log",
+ "log 0.4.17",
+ "rustls",
+ "tokio",
+ "tokio-rustls",
+@@ -4631,7 +4757,7 @@ dependencies = [
+ "dashmap",
+ "futures",
+ "httparse",
+ "log",
+ "log 0.4.17",
+ "lsp-types",
+ "memchr",
+ "serde",
+@@ -4702,7 +4828,7 @@ dependencies = [
+ "futures-channel",
+ "futures-util",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "radix_trie",
+ "rand",
+ "thiserror",
+@@ -4724,17 +4850,17 @@ dependencies = [
+ "futures-channel",
+ "futures-io",
+ "futures-util",
+ "idna",
+ "idna 0.2.3",
+ "ipnet",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "rand",
+ "serde",
+ "smallvec",
+ "thiserror",
+ "tinyvec",
+ "tokio",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -4747,7 +4873,7 @@ dependencies = [
+ "futures-util",
+ "ipconfig",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "lru-cache",
+ "parking_lot 0.12.1",
+ "resolv-conf",
+@@ -4771,7 +4897,7 @@ dependencies = [
+ "env_logger",
+ "futures-executor",
+ "futures-util",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "thiserror",
+ "time 0.3.9",
+@@ -4798,12 +4924,12 @@ dependencies = [
+ "bytes",
+ "http",
+ "httparse",
+ "log",
+ "log 0.4.17",
+ "rand",
+ "rustls",
+ "sha-1 0.9.8",
+ "thiserror",
+ "url",
+ "url 2.2.2",
+ "utf-8",
+ "webpki",
+]
+@@ -4957,16 +5083,27 @@ version = "0.7.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "a156c684c91ea7d62626509bce3cb4e1d9ed5c4d978f7b4352658f96a4c26b4a"
+
+[[package]]
+name = "url"
+version = "1.7.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "dd4e7c0d531266369519a4aa4f399d748bd37043b00bde1e4ff1f60a120b355a"
+dependencies = [
+ "idna 0.1.5",
+ "matches",
+ "percent-encoding 1.0.1",
+]
+
+[[package]]
+name = "url"
+version = "2.2.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "a507c383b2d33b5fc35d1861e77e6b383d158b2da5e14fe51b83dfedf6fd578c"
+dependencies = [
+ "form_urlencoded",
+ "idna",
+ "idna 0.2.3",
+ "matches",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+ "serde",
+]
+
+@@ -4980,7 +5117,7 @@ dependencies = [
+ "regex",
+ "serde",
+ "unic-ucd-ident",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -5053,7 +5190,7 @@ version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1ce8a968cb1cd110d136ff8b819a556d6fb6d919363c61534f6860c7eb172ba0"
+dependencies = [
+ "log",
+ "log 0.4.17",
+ "try-lock",
+]
+
+@@ -5087,7 +5224,7 @@ checksum = "5491a68ab4500fa6b4d726bd67408630c3dbe9c4fe7bda16d5c82a1fd8c7340a"
+dependencies = [
+ "bumpalo",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "proc-macro2 1.0.39",
+ "quote 1.0.18",
+ "syn 1.0.96",
+@@ -5176,7 +5313,7 @@ dependencies = [
+ "codespan-reporting",
+ "copyless",
+ "fxhash",
+ "log",
+ "log 0.4.17",
+ "naga",
+ "parking_lot 0.11.2",
+ "profiling",
+@@ -5210,7 +5347,7 @@ dependencies = [
+ "js-sys",
+ "khronos-egl",
+ "libloading",
+ "log",
+ "log 0.4.17",
+ "metal",
+ "naga",
+ "objc",
+@@ -5410,6 +5547,32 @@ dependencies = [
+ "toml",
+]
+
+[[package]]
+name = "yup-oauth2"
+version = "6.7.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "87d859e5b7fb10b5956b30eb1a6da981cdf0d3195fe2c6ff1840424522ca0d51"
+dependencies = [
+ "anyhow",
+ "async-trait",
+ "base64 0.13.0",
+ "futures",
+ "http",
+ "hyper",
+ "hyper-rustls",
+ "itertools",
+ "log 0.4.17",
+ "percent-encoding 2.1.0",
+ "rustls",
+ "rustls-pemfile 0.3.0",
+ "seahash",
+ "serde",
+ "serde_json",
+ "time 0.3.9",
+ "tokio",
+ "url 2.2.2",
+]
+
+[[package]]
+name = "zeroize"
+version = "1.5.5"
+  1  
+bench_util/Cargo.toml
+@@ -16,6 +16,7 @@ path = "lib.rs"
+[dependencies]
+bencher = "0.1"
+deno_core = { version = "0.140.0", path = "../core" }
+once_cell = "1.10.0"
+tokio = { version = "1.19", features = ["full"] }
+
+[[bench]]
+  4  
+cli/Cargo.toml
+@@ -100,8 +100,12 @@ fwdansi = "=1.1.0"
+winapi = { version = "=0.3.9", features = ["knownfolders", "mswsock", "objbase", "shlobj", "tlhelp32", "winbase", "winerror", "winsock2"] }
+
+[dev-dependencies]
+csv = "1.1.6"
+deno_bench_util = { version = "0.52.0", path = "../bench_util" }
+dotenv = "0.15.0"
+flaky_test = "=0.1.0"
+google-storage1 = "3.1.0"
+once_cell = "=1.12.0"
+os_pipe = "=1.0.1"
+pretty_assertions = "=1.2.1"
+test_util = { path = "../test_util" }
+ 10  
+cli/bench/README.md
+@@ -0,0 +1,10 @@
+benchmark filtering:
+
+```
+cargo bench --bench deno_bench -- bundle
+```
+
+benchmark plots:
+
+new: https://denoland.grafana.net/d/vErC9VCnz/benchmarks?orgId=1 old:
+deno.land/benchmarks
+  4  
+cli/bench/http.rs
+@@ -44,7 +44,7 @@ pub fn benchmark(
+    if name.starts_with("node") {
+      // node <path> <port>
+      res.insert(
+        name,
+        file_stem.to_string(),
+        run(
+          &["node", path, &port.to_string()],
+          port,
+@@ -56,7 +56,7 @@ pub fn benchmark(
+    } else {
+      // deno run -A --unstable <path> <addr>
+      res.insert(
+        name,
+        file_stem.to_string(),
+        run(
+          &[
+            deno_exe,
+  10  
+cli/bench/lsp.rs
+@@ -333,7 +333,7 @@ fn bench_startup_shutdown(deno_exe: &Path) -> Result<Duration, AnyError> {
+}
+
+/// Generate benchmarks for the LSP server.
+pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, i64>, AnyError> {
+  println!("-> Start benchmarking lsp");
+  let mut exec_times = HashMap::new();
+
+@@ -343,7 +343,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_startup_shutdown(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("startup_shutdown".to_string(), mean);
+
+@@ -353,7 +353,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_big_file_edits(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("big_file_edits".to_string(), mean);
+
+@@ -363,7 +363,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_find_replace(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("find_replace".to_string(), mean);
+
+@@ -373,7 +373,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_code_lens(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("code_lens".to_string(), mean);
+
+  257  
+cli/bench/main.rs
+@@ -3,7 +3,6 @@
+use deno_core::error::AnyError;
+use deno_core::serde_json;
+use deno_core::serde_json::Value;
+use serde::Serialize;
+use std::collections::HashMap;
+use std::convert::From;
+use std::env;
+@@ -16,6 +15,7 @@ use std::time::SystemTime;
+
+mod http;
+mod lsp;
+mod metrics;
+
+fn read_json(filename: &str) -> Result<Value> {
+  let f = fs::File::open(filename)?;
+@@ -162,7 +162,7 @@ const RESULT_KEYS: &[&str] =
+fn run_exec_time(
+  deno_exe: &Path,
+  target_dir: &Path,
+) -> Result<HashMap<String, HashMap<String, f64>>> {
+) -> Result<HashMap<String, HashMap<String, i64>>> {
+  let hyperfine_exe = test_util::prebuilt_tool_path("hyperfine");
+
+  let benchmark_file = target_dir.join("hyperfine_results.json");
+@@ -203,7 +203,7 @@ fn run_exec_time(
+    true,
+  );
+
+  let mut results = HashMap::<String, HashMap<String, f64>>::new();
+  let mut results = HashMap::<String, HashMap<String, i64>>::new();
+  let hyperfine_results = read_json(benchmark_file)?;
+  for ((name, _, _), data) in EXEC_TIME_BENCHMARKS.iter().zip(
+    hyperfine_results
+@@ -220,15 +220,15 @@ fn run_exec_time(
+      data
+        .into_iter()
+        .filter(|(key, _)| RESULT_KEYS.contains(&key.as_str()))
+        .map(|(key, val)| (key, val.as_f64().unwrap()))
+        .map(|(key, val)| (key, val.as_f64().unwrap() as i64))
+        .collect(),
+    );
+  }
+
+  Ok(results)
+}
+
+fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> u64 {
+fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> i64 {
+  let mut size = 0;
+  let mut seen = std::collections::HashSet::new();
+  for entry in std::fs::read_dir(target_dir.join("deps")).unwrap() {
+@@ -247,18 +247,18 @@ fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> u64 {
+    }
+  }
+  assert!(size > 0);
+  size
+  size as i64
+}
+
+const BINARY_TARGET_FILES: &[&str] =
+  &["CLI_SNAPSHOT.bin", "COMPILER_SNAPSHOT.bin"];
+fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, u64>> {
+  let mut sizes = HashMap::<String, u64>::new();
+fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, i64>> {
+  let mut sizes = HashMap::<String, i64>::new();
+  let mut mtimes = HashMap::<String, SystemTime>::new();
+
+  sizes.insert(
+    "deno".to_string(),
+    test_util::deno_exe_path().metadata()?.len(),
+    test_util::deno_exe_path().metadata()?.len() as i64,
+  );
+
+  // add up size for everything in target/release/deps/libswc*
+@@ -294,7 +294,7 @@ fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, u64>> {
+    }
+
+    mtimes.insert(filename.clone(), file_mtime);
+    sizes.insert(filename, meta.len());
+    sizes.insert(filename, meta.len() as i64);
+  }
+
+  Ok(sizes)
+@@ -304,8 +304,8 @@ const BUNDLES: &[(&str, &str)] = &[
+  ("file_server", "./test_util/std/http/file_server.ts"),
+  ("gist", "./test_util/std/examples/gist.ts"),
+];
+fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+  let mut sizes = HashMap::<String, u64>::new();
+fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, i64>> {
+  let mut sizes = HashMap::<String, i64>::new();
+
+  for (name, url) in BUNDLES {
+    let path = format!("{}.bundle.js", name);
+@@ -325,74 +325,15 @@ fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+
+    let file = PathBuf::from(path);
+    assert!(file.is_file());
+    sizes.insert(name.to_string(), file.metadata()?.len());
+    sizes.insert(name.to_string(), file.metadata()?.len() as i64);
+    let _ = fs::remove_file(file);
+  }
+
+  Ok(sizes)
+}
+
+fn run_http(target_dir: &Path, new_data: &mut BenchResult) -> Result<()> {
+  let stats = http::benchmark(target_dir)?;
+
+  new_data.req_per_sec = stats
+    .iter()
+    .map(|(name, result)| (name.clone(), result.requests))
+    .collect();
+
+  new_data.max_latency = stats
+    .iter()
+    .map(|(name, result)| (name.clone(), result.latency))
+    .collect();
+
+  Ok(())
+}
+
+fn run_strace_benchmarks(
+  deno_exe: &Path,
+  new_data: &mut BenchResult,
+) -> Result<()> {
+  use std::io::Read;
+
+  let mut thread_count = HashMap::<String, u64>::new();
+  let mut syscall_count = HashMap::<String, u64>::new();
+
+  for (name, args, expected_exit_code) in EXEC_TIME_BENCHMARKS {
+    let mut file = secure_tempfile::NamedTempFile::new()?;
+
+    let exit_status = Command::new("strace")
+      .args(&[
+        "-c",
+        "-f",
+        "-o",
+        file.path().to_str().unwrap(),
+        deno_exe.to_str().unwrap(),
+      ])
+      .args(args.iter())
+      .stdout(Stdio::null())
+      .spawn()?
+      .wait()?;
+    let expected_exit_code = expected_exit_code.unwrap_or(0);
+    assert_eq!(exit_status.code(), Some(expected_exit_code));
+
+    let mut output = String::new();
+    file.as_file_mut().read_to_string(&mut output)?;
+
+    let strace_result = test_util::parse_strace_output(&output);
+    let clone = strace_result.get("clone").map(|d| d.calls).unwrap_or(0) + 1;
+    let total = strace_result.get("total").unwrap().calls;
+    thread_count.insert(name.to_string(), clone);
+    syscall_count.insert(name.to_string(), total);
+  }
+
+  new_data.thread_count = thread_count;
+  new_data.syscall_count = syscall_count;
+
+  Ok(())
+}
+
+fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+  let mut results = HashMap::<String, u64>::new();
+fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, i64>> {
+  let mut results = HashMap::<String, i64>::new();
+
+  for (name, args, return_code) in EXEC_TIME_BENCHMARKS {
+    let proc = Command::new("time")
+@@ -408,7 +349,10 @@ fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+    }
+    let out = String::from_utf8(proc_result.stderr)?;
+
+    results.insert(name.to_string(), test_util::parse_max_mem(&out).unwrap());
+    results.insert(
+      name.to_string(),
+      test_util::parse_max_mem(&out).unwrap() as i64,
+    );
+  }
+
+  Ok(results)
+@@ -429,43 +373,60 @@ fn cargo_deps() -> usize {
+  count
+}
+
+#[derive(Default, Serialize)]
+// TODO(@littledivy): Remove this, denoland/benchmark_data is deprecated.
+#[derive(Default, serde::Serialize)]
+struct BenchResult {
+  created_at: String,
+  sha1: String,
+
+  // TODO(ry) The "benchmark" benchmark should actually be called "exec_time".
+  // When this is changed, the historical data in gh-pages branch needs to be
+  // changed too.
+  benchmark: HashMap<String, HashMap<String, f64>>,
+  binary_size: HashMap<String, u64>,
+  bundle_size: HashMap<String, u64>,
+  benchmark: HashMap<String, HashMap<String, i64>>,
+  binary_size: HashMap<String, i64>,
+  bundle_size: HashMap<String, i64>,
+  cargo_deps: usize,
+  max_latency: HashMap<String, f64>,
+  max_memory: HashMap<String, u64>,
+  lsp_exec_time: HashMap<String, u64>,
+  req_per_sec: HashMap<String, u64>,
+  syscall_count: HashMap<String, u64>,
+  thread_count: HashMap<String, u64>,
+  max_latency: HashMap<String, i64>,
+  max_memory: HashMap<String, i64>,
+  lsp_exec_time: HashMap<String, i64>,
+  req_per_sec: HashMap<String, i64>,
+  syscall_count: HashMap<String, i64>,
+  thread_count: HashMap<String, i64>,
+}
+
+/*
+ TODO(SyrupThinker)
+ Switch to the #[bench] attribute once
+ it is stabilized.
+ Before that the #[test] tests won't be run because
+ we replace the harness with our own runner here.
+*/
+fn main() -> Result<()> {
+  if !env::args().any(|s| s == "--bench") {
+#[tokio::main]
+async fn main() -> Result<()> {
+  let mut args = env::args();
+
+  let mut benchmarks = vec![
+    "bundle",
+    "exec_time",
+    "binary_size",
+    "cargo_deps",
+    "lsp",
+    "http",
+    "strace",
+    "mem_usage",
+  ];
+
+  let mut found_bench = false;
+  let filter = args.nth(1);
+  if let Some(filter) = filter {
+    if filter != "--bench" {
+      benchmarks.retain(|s| s == &filter);
+    } else {
+      found_bench = true;
+    }
+  }
+
+  if !found_bench && !args.any(|s| s == "--bench") {
+    return Ok(());
+  }
+
+  println!("Starting Deno benchmark");
+
+  let target_dir = test_util::target_dir();
+  let deno_exe = test_util::deno_exe_path();
+
+  env::set_current_dir(&test_util::root_path())?;
+
+  let mut new_data = BenchResult {
+@@ -481,27 +442,107 @@ fn main() -> Result<()> {
+    .0
+    .trim()
+    .to_string(),
+    benchmark: run_exec_time(&deno_exe, &target_dir)?,
+    binary_size: get_binary_sizes(&target_dir)?,
+    bundle_size: bundle_benchmark(&deno_exe)?,
+    cargo_deps: cargo_deps(),
+    lsp_exec_time: lsp::benchmarks(&deno_exe)?,
+    ..Default::default()
+  };
+
+  if cfg!(not(target_os = "windows")) {
+    run_http(&target_dir, &mut new_data)?;
+  let mut reporter = metrics::Reporter::new().await;
+
+  if benchmarks.contains(&"bundle") {
+    let bundle_size = bundle_benchmark(&deno_exe)?;
+    reporter.write("bundle_size", &bundle_size);
+    new_data.bundle_size = bundle_size;
+  }
+
+  if benchmarks.contains(&"exec_time") {
+    let exec_times = run_exec_time(&deno_exe, &target_dir)?;
+    for (name, data) in exec_times.iter() {
+      reporter.write_one("exec_time", name, *data.get("mean").unwrap());
+    }
+    new_data.benchmark = exec_times;
+  }
+
+  if benchmarks.contains(&"binary_size") {
+    let binary_sizes = get_binary_sizes(&target_dir)?;
+    reporter.write("binary_size", &binary_sizes);
+    new_data.binary_size = binary_sizes;
+  }
+
+  if benchmarks.contains(&"cargo_deps") {
+    let cargo_deps = cargo_deps();
+    reporter.write_one("cargo_deps", "cargo_deps", cargo_deps as i64);
+    new_data.cargo_deps = cargo_deps;
+  }
+
+  if benchmarks.contains(&"lsp") {
+    let lsp_exec_times = lsp::benchmarks(&deno_exe)?;
+    reporter.write("lsp_exec_time", &lsp_exec_times);
+    new_data.lsp_exec_time = lsp_exec_times;
+  }
+
+  if cfg!(target_os = "linux") {
+    run_strace_benchmarks(&deno_exe, &mut new_data)?;
+    new_data.max_memory = run_max_mem_benchmark(&deno_exe)?;
+  if benchmarks.contains(&"http") && cfg!(not(target_os = "windows")) {
+    let stats = http::benchmark(&target_dir)?;
+    let req_per_sec = stats
+      .iter()
+      .map(|(name, result)| (name.clone(), result.requests as i64))
+      .collect();
+    reporter.write("req_per_sec", &req_per_sec);
+    new_data.req_per_sec = req_per_sec;
+    let max_latency = stats
+      .iter()
+      .map(|(name, result)| (name.clone(), result.latency as i64))
+      .collect();
+
+    reporter.write("max_latency", &max_latency);
+    new_data.max_latency = max_latency;
+  }
+
+  println!("===== <BENCHMARK RESULTS>");
+  serde_json::to_writer_pretty(std::io::stdout(), &new_data)?;
+  println!("\n===== </BENCHMARK RESULTS>");
+  if cfg!(target_os = "linux") && benchmarks.contains(&"strace") {
+    use std::io::Read;
+
+    let mut thread_count = HashMap::<String, i64>::new();
+    let mut syscall_count = HashMap::<String, i64>::new();
+
+    for (name, args, expected_exit_code) in EXEC_TIME_BENCHMARKS {
+      let mut file = secure_tempfile::NamedTempFile::new()?;
+
+      let exit_status = Command::new("strace")
+        .args(&[
+          "-c",
+          "-f",
+          "-o",
+          file.path().to_str().unwrap(),
+          deno_exe.to_str().unwrap(),
+        ])
+        .args(args.iter())
+        .stdout(Stdio::null())
+        .spawn()?
+        .wait()?;
+      let expected_exit_code = expected_exit_code.unwrap_or(0);
+      assert_eq!(exit_status.code(), Some(expected_exit_code));
+
+      let mut output = String::new();
+      file.as_file_mut().read_to_string(&mut output)?;
+
+      let strace_result = test_util::parse_strace_output(&output);
+      let clone = strace_result.get("clone").map(|d| d.calls).unwrap_or(0) + 1;
+      let total = strace_result.get("total").unwrap().calls;
+      thread_count.insert(name.to_string(), clone as i64);
+      syscall_count.insert(name.to_string(), total as i64);
+    }
+
+    reporter.write("thread_count", &thread_count);
+    new_data.thread_count = thread_count;
+    reporter.write("syscall_count", &syscall_count);
+    new_data.syscall_count = syscall_count;
+  }
+
+  if benchmarks.contains(&"mem_usage") {
+    let max_memory = run_max_mem_benchmark(&deno_exe)?;
+    reporter.write("max_memory", &max_memory);
+    new_data.max_memory = max_memory;
+  }
+
+  reporter.submit().await;
+  if let Some(filename) = target_dir.join("bench.json").to_str() {
+    write_json(filename, &serde_json::to_value(&new_data)?)?;
+  } else {
+ 99  
+cli/bench/metrics.rs
+@@ -0,0 +1,99 @@
+// Copyright 2018-2022 the Deno authors. All rights reserved. MIT license.
+
+use google_storage1::api::Object;
+use google_storage1::hyper;
+use google_storage1::hyper_rustls;
+use google_storage1::oauth2;
+use google_storage1::Storage;
+use once_cell::sync::Lazy;
+use std::collections::HashMap;
+use std::io::Cursor;
+
+static GIT_HASH: Lazy<String> = Lazy::new(|| {
+  test_util::run_collect(&["git", "rev-parse", "HEAD"], None, None, None, true)
+    .0
+    .trim()
+    .to_string()
+});
+
+#[derive(serde::Serialize)]
+struct Metric {
+  name: String,
+  value: i64,
+  sha1: String,
+  #[serde(rename = "type")]
+  type_: String,
+  time: i64,
+}
+
+pub struct Reporter {
+  wtr: csv::Writer<Vec<u8>>,
+  gcloud_client: Option<Storage>,
+}
+
+impl Reporter {
+  pub async fn new() -> Self {
+    dotenv::dotenv().ok();
+    let gcloud_client =
+      match std::env::var("CI").map(|_| std::env::var("GOOGLE_SVC_KEY")) {
+        Ok(Ok(key_str)) => {
+          let secret = oauth2::parse_service_account_key(key_str)
+            .expect("Failed to load service account key");
+          let auth =
+            oauth2::authenticator::ServiceAccountAuthenticator::builder(secret)
+              .build()
+              .await
+              .unwrap();
+          let client = hyper::Client::builder().build(
+            hyper_rustls::HttpsConnectorBuilder::new()
+              .with_native_roots()
+              .https_or_http()
+              .enable_http1()
+              .enable_http2()
+              .build(),
+          );
+          Some(Storage::new(client, auth))
+        }
+        _ => None,
+      };
+    Self {
+      wtr: csv::Writer::from_writer(vec![]),
+      gcloud_client,
+    }
+  }
+
+  pub fn write_one(&mut self, type_: &str, name: &str, value: i64) {
+    self
+      .wtr
+      .serialize(Metric {
+        name: name.to_string(),
+        type_: type_.to_string(),
+        value,
+        sha1: GIT_HASH.clone(),
+        time: chrono::Utc::now().timestamp_millis(),
+      })
+      .unwrap();
+  }
+
+  pub fn write(&mut self, type_: &str, hashmap: &HashMap<String, i64>) {
+    for (name, value) in hashmap {
+      self.write_one(type_, name, *value);
+    }
+  }
+
+  pub async fn submit(mut self) {
+    self.wtr.flush().unwrap();
+    if let Some(client) = self.gcloud_client.take() {
+      let mut reader = Cursor::new(self.wtr.into_inner().unwrap());
+      let object: Object = Object::default();
+      client
+        .objects()
+        .insert(object, "deno_benchmark_data")
+        .name(&format!("{"'*''*'"'Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@zakwarlord7 
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+zakwarlord7
+/
+deno
+Public
+forked from hayd/deno
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+refactor(bench): continuous benchmarking improvements (denoland#14821)
+ master
+@littledivy
+littledivy committed on Jun 28 
+1 parent 00f4521 commit ab11b45d1d2678cfea2217ac72fc24317eef777d
+Show file tree Hide file tree
+Showing 11 changed files with 531 additions and 169 deletions.
+ 43  
+.github/workflows/bench_cron.yml
+@@ -0,0 +1,43 @@
+name: bench
+
+on:
+  # Runs at minute 9 past hour 0, 6, 12, and 18.
+  schedule:
+    - cron: 9 0,6,12,18 * * *
+  workflow_dispatch:
+
+jobs:
+  bench:
+    name: bench / ${{ matrix.os }} / ${{ matrix.deno-version }}
+    if: github.repository == 'denoland/deno'
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-20.04-xl]
+
+    env:
+      CARGO_TERM_COLOR: always
+      RUST_BACKTRACE: full
+      CI: true
+      GOOGLE_SVC_KEY: ${{ secrets.GOOGLE_SVC_KEY }}
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          persist-credentials: false
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Build release
+        run: cargo build --release --locked --all-targets
+
+      - name: Worker info
+        run: |
+          cat /proc/cpuinfo
+          cat /proc/meminfo
+      - name: Run and Post benchmarks
+        run: cargo bench --locked
+  2  
+.github/workflows/ci.yml
+@@ -603,4 +603,4 @@ jobs:
+      - name: Upload canary version file to dl.deno.land
+        run: |
+          echo ${{ github.sha }} > canary-latest.txt
+          gsutil -h "Cache-Control: no-cache" cp canary-latest.txt gs://dl.deno.land/canary-latest.txt
+          gsutil -h "Cache-Control: no-cache" cp canary-latest.txt gs://dl.deno.land/canary-latest.txt
+ 1  
+.gitignore
+@@ -1,6 +1,7 @@
+*.orig
+*.pyc
+*.swp
+.env
+
+/.cargo_home/
+/.idea/
+ 269  
+Cargo.lock
+@@ -354,6 +354,18 @@ dependencies = [
+ "alloc-stdlib",
+]
+
+[[package]]
+name = "bstr"
+version = "0.2.17"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ba3569f383e8f1598449f1a423e72e99569137b47740b1da11ef19af3d5c3223"
+dependencies = [
+ "lazy_static",
+ "memchr",
+ "regex-automata",
+ "serde",
+]
+
+[[package]]
+name = "bumpalo"
+version = "3.10.0"
+@@ -617,6 +629,28 @@ dependencies = [
+ "typenum",
+]
+
+[[package]]
+name = "csv"
+version = "1.1.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "22813a6dc45b335f9bade10bf7271dc477e81113e89eb251a0bc2a8a81c536e1"
+dependencies = [
+ "bstr",
+ "csv-core",
+ "itoa 0.4.8",
+ "ryu",
+ "serde",
+]
+
+[[package]]
+name = "csv-core"
+version = "0.1.10"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "2b2466559f260f48ad25fe6317b3c8dac77b5bdb5763ac7d9d6103530663bc90"
+dependencies = [
+ "memchr",
+]
+
+[[package]]
+name = "ctor"
+version = "0.1.22"
+@@ -735,6 +769,7 @@ dependencies = [
+ "clap",
+ "clap_complete",
+ "clap_complete_fig",
+ "csv",
+ "data-url",
+ "deno_ast",
+ "deno_bench_util",
+@@ -747,6 +782,7 @@ dependencies = [
+ "deno_snapshots",
+ "deno_task_shell",
+ "dissimilar",
+ "dotenv",
+ "dprint-plugin-json",
+ "dprint-plugin-markdown",
+ "dprint-plugin-typescript",
+@@ -756,19 +792,20 @@ dependencies = [
+ "fancy-regex",
+ "flaky_test",
+ "fwdansi",
+ "google-storage1",
+ "http",
+ "import_map",
+ "indexmap",
+ "jsonc-parser",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "mitata",
+ "nix",
+ "node_resolver",
+ "notify",
+ "once_cell",
+ "os_pipe",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+ "pin-project",
+ "pretty_assertions",
+ "rand",
+@@ -827,7 +864,7 @@ dependencies = [
+ "swc_ecma_utils",
+ "swc_ecma_visit",
+ "text_lines",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -836,6 +873,7 @@ version = "0.52.0"
+dependencies = [
+ "bencher",
+ "deno_core",
+ "once_cell",
+ "tokio",
+]
+
+@@ -866,7 +904,7 @@ dependencies = [
+ "futures",
+ "indexmap",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "once_cell",
+ "parking_lot 0.12.1",
+ "pin-project",
+@@ -875,7 +913,7 @@ dependencies = [
+ "serde_v8",
+ "sourcemap",
+ "tokio",
+ "url",
+ "url 2.2.2",
+ "v8",
+]
+
+@@ -990,7 +1028,7 @@ dependencies = [
+ "serde_json",
+ "sourcemap",
+ "termcolor",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -1008,8 +1046,8 @@ dependencies = [
+ "flate2",
+ "fly-accept-encoding",
+ "hyper",
+ "mime",
+ "percent-encoding",
+ "mime 0.3.16",
+ "percent-encoding 2.1.0",
+ "phf",
+ "ring",
+ "serde",
+@@ -1027,7 +1065,7 @@ dependencies = [
+ "deno_ast",
+ "derive_more",
+ "if_chain",
+ "log",
+ "log 0.4.17",
+ "once_cell",
+ "regex",
+ "serde",
+@@ -1040,7 +1078,7 @@ version = "0.50.0"
+dependencies = [
+ "deno_core",
+ "deno_tls",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "socket2",
+ "tokio",
+@@ -1088,7 +1126,7 @@ dependencies = [
+ "http",
+ "hyper",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "lzzzz",
+ "netif",
+ "nix",
+@@ -1141,7 +1179,7 @@ dependencies = [
+ "once_cell",
+ "rustls",
+ "rustls-native-certs",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "webpki",
+ "webpki-roots",
+@@ -1297,6 +1335,12 @@ dependencies = [
+ "syn 0.15.44",
+]
+
+[[package]]
+name = "dotenv"
+version = "0.15.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "77c90badedccf4105eca100756a0b1289e191f6fcbdadd3cee1d2f614f97da8f"
+
+[[package]]
+name = "dprint-core"
+version = "0.58.2"
+@@ -1458,7 +1502,7 @@ checksum = "0b2cf0344971ee6c64c31be0d530793fba457d322dfec2810c453d0ef228f9c3"
+dependencies = [
+ "atty",
+ "humantime",
+ "log",
+ "log 0.4.17",
+ "regex",
+ "termcolor",
+]
+@@ -1521,7 +1565,7 @@ dependencies = [
+ "sha2",
+ "thiserror",
+ "tokio",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -1654,7 +1698,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5fc25a87fa4fd2094bffb06925852034d90a17f0d1e05197d4956d3555752191"
+dependencies = [
+ "matches",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+]
+
+[[package]]
+@@ -1850,6 +1894,23 @@ dependencies = [
+ "web-sys",
+]
+
+[[package]]
+name = "google-storage1"
+version = "3.1.0+20220228"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "838c83adf6e1f0e35fa17b343e32762867f8ee8ea1a63e97c5ef5efda751bab9"
+dependencies = [
+ "hyper",
+ "hyper-rustls",
+ "itertools",
+ "mime 0.2.6",
+ "serde",
+ "serde_derive",
+ "serde_json",
+ "url 1.7.2",
+ "yup-oauth2",
+]
+
+[[package]]
+name = "gpu-alloc"
+version = "0.5.3"
+@@ -2001,7 +2062,7 @@ checksum = "31f4c6746584866f0feabcc69893c5b51beef3831656a968ed7ae254cdc4fd03"
+dependencies = [
+ "bytes",
+ "fnv",
+ "itoa",
+ "itoa 1.0.2",
+]
+
+[[package]]
+@@ -2048,7 +2109,7 @@ dependencies = [
+ "http-body",
+ "httparse",
+ "httpdate",
+ "itoa",
+ "itoa 1.0.2",
+ "pin-project-lite",
+ "socket2",
+ "tokio",
+@@ -2065,7 +2126,9 @@ checksum = "d87c48c02e0dc5e3b849a2041db3029fd066650f8f717c07bf8ed78ccb895cac"
+dependencies = [
+ "http",
+ "hyper",
+ "log 0.4.17",
+ "rustls",
+ "rustls-native-certs",
+ "tokio",
+ "tokio-rustls",
+]
+@@ -2076,6 +2139,17 @@ version = "1.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b9e0384b61958566e926dc50660321d12159025e767c18e043daf26b70104c39"
+
+[[package]]
+name = "idna"
+version = "0.1.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "38f09e0f0b1fb55fdee1f17470ad800da77af5186a1a76c026b679358b7e844e"
+dependencies = [
+ "matches",
+ "unicode-bidi",
+ "unicode-normalization",
+]
+
+[[package]]
+name = "idna"
+version = "0.2.3"
+@@ -2100,10 +2174,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5247edf057fe57036112a1fec3864baa68052b52116760dbea4909115731272f"
+dependencies = [
+ "indexmap",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "serde_json",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -2208,6 +2282,12 @@ dependencies = [
+ "either",
+]
+
+[[package]]
+name = "itoa"
+version = "0.4.8"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b71991ff56294aa922b450139ee08b3bfc70982c6b2c7562771375cf73542dd4"
+
+[[package]]
+name = "itoa"
+version = "1.0.2"
+@@ -2438,6 +2518,15 @@ dependencies = [
+ "scopeguard",
+]
+
+[[package]]
+name = "log"
+version = "0.3.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e19e8d5c34a3e0e2223db8e060f9e8264aeeb5c5fc64a4ee9965c062211c024b"
+dependencies = [
+ "log 0.4.17",
+]
+
+[[package]]
+name = "log"
+version = "0.4.17"
+@@ -2467,7 +2556,7 @@ dependencies = [
+ "serde",
+ "serde_json",
+ "serde_repr",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -2525,10 +2614,19 @@ dependencies = [
+ "block",
+ "core-graphics-types",
+ "foreign-types",
+ "log",
+ "log 0.4.17",
+ "objc",
+]
+
+[[package]]
+name = "mime"
+version = "0.2.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "ba626b8a6de5da682e1caa06bdb42a335aee5a84db8e5046a3e8ab17ba0a3ae0"
+dependencies = [
+ "log 0.3.9",
+]
+
+[[package]]
+name = "mime"
+version = "0.3.16"
+@@ -2551,7 +2649,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "713d550d9b44d89174e066b7a6217ae06234c10cb47819a88290d2b353c31799"
+dependencies = [
+ "libc",
+ "log",
+ "log 0.4.17",
+ "wasi 0.11.0+wasi-snapshot-preview1",
+ "windows-sys 0.36.1",
+]
+@@ -2576,7 +2674,7 @@ dependencies = [
+ "codespan-reporting",
+ "hexf-parse",
+ "indexmap",
+ "log",
+ "log 0.4.17",
+ "num-traits",
+ "rustc-hash",
+ "serde",
+@@ -2893,6 +2991,12 @@ dependencies = [
+ "base64ct",
+]
+
+[[package]]
+name = "percent-encoding"
+version = "1.0.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "31010dd2e1ac33d5b46a5b413495239882813e0369f8ed8a5e266f173602f831"
+
+[[package]]
+name = "percent-encoding"
+version = "2.1.0"
+@@ -3258,6 +3362,12 @@ dependencies = [
+ "regex-syntax",
+]
+
+[[package]]
+name = "regex-automata"
+version = "0.1.10"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "6c230d73fb8d8c1b9c0b3135c5142a8acee3a0558fb8db5cf1cb65f8d7862132"
+
+[[package]]
+name = "regex-syntax"
+version = "0.6.26"
+@@ -3305,20 +3415,20 @@ dependencies = [
+ "ipnet",
+ "js-sys",
+ "lazy_static",
+ "log",
+ "mime",
+ "percent-encoding",
+ "log 0.4.17",
+ "mime 0.3.16",
+ "percent-encoding 2.1.0",
+ "pin-project-lite",
+ "rustls",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "serde_json",
+ "serde_urlencoded",
+ "tokio",
+ "tokio-rustls",
+ "tokio-util",
+ "tower-service",
+ "url",
+ "url 2.2.2",
+ "wasm-bindgen",
+ "wasm-bindgen-futures",
+ "web-sys",
+@@ -3458,7 +3568,7 @@ version = "0.20.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5aab8ee6c7097ed6057f43c187a62418d0c05a4bd5f18b3571db50ee0f9ce033"
+dependencies = [
+ "log",
+ "log 0.4.17",
+ "ring",
+ "sct",
+ "webpki",
+@@ -3471,11 +3581,20 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0167bac7a9f490495f3c33013e7722b53cb087ecbe082fb0c6387c96f634ea50"
+dependencies = [
+ "openssl-probe",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "schannel",
+ "security-framework",
+]
+
+[[package]]
+name = "rustls-pemfile"
+version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1ee86d63972a7c661d1536fefe8c3c8407321c3df668891286de28abcd087360"
+dependencies = [
+ "base64 0.13.0",
+]
+
+[[package]]
+name = "rustls-pemfile"
+version = "1.0.0"
+@@ -3496,7 +3615,7 @@ dependencies = [
+ "clipboard-win",
+ "fd-lock",
+ "libc",
+ "log",
+ "log 0.4.17",
+ "memchr",
+ "nix",
+ "radix_trie",
+@@ -3565,6 +3684,12 @@ dependencies = [
+ "untrusted",
+]
+
+[[package]]
+name = "seahash"
+version = "4.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1c107b6f4780854c8b126e228ea8869f4d7b71260f962fefb57b996b8959ba6b"
+
+[[package]]
+name = "sec1"
+version = "0.3.0"
+@@ -3668,7 +3793,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9b7ce2b32a1aed03c558dc61a5cd328f15aff2dbc17daad8fb8af04d2100e15c"
+dependencies = [
+ "indexmap",
+ "itoa",
+ "itoa 1.0.2",
+ "ryu",
+ "serde",
+]
+@@ -3691,7 +3816,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d3491c14715ca2294c4d6a88f15e84739788c1d030eed8c110436aafdaa2f3fd"
+dependencies = [
+ "form_urlencoded",
+ "itoa",
+ "itoa 1.0.2",
+ "ryu",
+ "serde",
+]
+@@ -3818,7 +3943,7 @@ dependencies = [
+ "rustc_version 0.2.3",
+ "serde",
+ "serde_json",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -3985,7 +4110,7 @@ dependencies = [
+ "swc_visit",
+ "tracing",
+ "unicode-width",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -4421,7 +4546,7 @@ dependencies = [
+ "pretty_assertions",
+ "pty",
+ "regex",
+ "rustls-pemfile",
+ "rustls-pemfile 1.0.0",
+ "serde",
+ "serde_json",
+ "tokio",
+@@ -4490,6 +4615,7 @@ checksum = "c2702e08a7a860f005826c6815dcac101b19b5eb330c27fe4a5928fec1d20ddd"
+dependencies = [
+ "libc",
+ "num_threads",
+ "serde",
+]
+
+[[package]]
+@@ -4567,7 +4693,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e80b39df6afcc12cdf752398ade96a6b9e99c903dfdc36e53ad10b9c366bca72"
+dependencies = [
+ "futures-util",
+ "log",
+ "log 0.4.17",
+ "rustls",
+ "tokio",
+ "tokio-rustls",
+@@ -4631,7 +4757,7 @@ dependencies = [
+ "dashmap",
+ "futures",
+ "httparse",
+ "log",
+ "log 0.4.17",
+ "lsp-types",
+ "memchr",
+ "serde",
+@@ -4702,7 +4828,7 @@ dependencies = [
+ "futures-channel",
+ "futures-util",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "radix_trie",
+ "rand",
+ "thiserror",
+@@ -4724,17 +4850,17 @@ dependencies = [
+ "futures-channel",
+ "futures-io",
+ "futures-util",
+ "idna",
+ "idna 0.2.3",
+ "ipnet",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "rand",
+ "serde",
+ "smallvec",
+ "thiserror",
+ "tinyvec",
+ "tokio",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -4747,7 +4873,7 @@ dependencies = [
+ "futures-util",
+ "ipconfig",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "lru-cache",
+ "parking_lot 0.12.1",
+ "resolv-conf",
+@@ -4771,7 +4897,7 @@ dependencies = [
+ "env_logger",
+ "futures-executor",
+ "futures-util",
+ "log",
+ "log 0.4.17",
+ "serde",
+ "thiserror",
+ "time 0.3.9",
+@@ -4798,12 +4924,12 @@ dependencies = [
+ "bytes",
+ "http",
+ "httparse",
+ "log",
+ "log 0.4.17",
+ "rand",
+ "rustls",
+ "sha-1 0.9.8",
+ "thiserror",
+ "url",
+ "url 2.2.2",
+ "utf-8",
+ "webpki",
+]
+@@ -4957,16 +5083,27 @@ version = "0.7.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "a156c684c91ea7d62626509bce3cb4e1d9ed5c4d978f7b4352658f96a4c26b4a"
+
+[[package]]
+name = "url"
+version = "1.7.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "dd4e7c0d531266369519a4aa4f399d748bd37043b00bde1e4ff1f60a120b355a"
+dependencies = [
+ "idna 0.1.5",
+ "matches",
+ "percent-encoding 1.0.1",
+]
+
+[[package]]
+name = "url"
+version = "2.2.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "a507c383b2d33b5fc35d1861e77e6b383d158b2da5e14fe51b83dfedf6fd578c"
+dependencies = [
+ "form_urlencoded",
+ "idna",
+ "idna 0.2.3",
+ "matches",
+ "percent-encoding",
+ "percent-encoding 2.1.0",
+ "serde",
+]
+
+@@ -4980,7 +5117,7 @@ dependencies = [
+ "regex",
+ "serde",
+ "unic-ucd-ident",
+ "url",
+ "url 2.2.2",
+]
+
+[[package]]
+@@ -5053,7 +5190,7 @@ version = "0.3.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "1ce8a968cb1cd110d136ff8b819a556d6fb6d919363c61534f6860c7eb172ba0"
+dependencies = [
+ "log",
+ "log 0.4.17",
+ "try-lock",
+]
+
+@@ -5087,7 +5224,7 @@ checksum = "5491a68ab4500fa6b4d726bd67408630c3dbe9c4fe7bda16d5c82a1fd8c7340a"
+dependencies = [
+ "bumpalo",
+ "lazy_static",
+ "log",
+ "log 0.4.17",
+ "proc-macro2 1.0.39",
+ "quote 1.0.18",
+ "syn 1.0.96",
+@@ -5176,7 +5313,7 @@ dependencies = [
+ "codespan-reporting",
+ "copyless",
+ "fxhash",
+ "log",
+ "log 0.4.17",
+ "naga",
+ "parking_lot 0.11.2",
+ "profiling",
+@@ -5210,7 +5347,7 @@ dependencies = [
+ "js-sys",
+ "khronos-egl",
+ "libloading",
+ "log",
+ "log 0.4.17",
+ "metal",
+ "naga",
+ "objc",
+@@ -5410,6 +5547,32 @@ dependencies = [
+ "toml",
+]
+
+[[package]]
+name = "yup-oauth2"
+version = "6.7.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "87d859e5b7fb10b5956b30eb1a6da981cdf0d3195fe2c6ff1840424522ca0d51"
+dependencies = [
+ "anyhow",
+ "async-trait",
+ "base64 0.13.0",
+ "futures",
+ "http",
+ "hyper",
+ "hyper-rustls",
+ "itertools",
+ "log 0.4.17",
+ "percent-encoding 2.1.0",
+ "rustls",
+ "rustls-pemfile 0.3.0",
+ "seahash",
+ "serde",
+ "serde_json",
+ "time 0.3.9",
+ "tokio",
+ "url 2.2.2",
+]
+
+[[package]]
+name = "zeroize"
+version = "1.5.5"
+  1  
+bench_util/Cargo.toml
+@@ -16,6 +16,7 @@ path = "lib.rs"
+[dependencies]
+bencher = "0.1"
+deno_core = { version = "0.140.0", path = "../core" }
+once_cell = "1.10.0"
+tokio = { version = "1.19", features = ["full"] }
+
+[[bench]]
+  4  
+cli/Cargo.toml
+@@ -100,8 +100,12 @@ fwdansi = "=1.1.0"
+winapi = { version = "=0.3.9", features = ["knownfolders", "mswsock", "objbase", "shlobj", "tlhelp32", "winbase", "winerror", "winsock2"] }
+
+[dev-dependencies]
+csv = "1.1.6"
+deno_bench_util = { version = "0.52.0", path = "../bench_util" }
+dotenv = "0.15.0"
+flaky_test = "=0.1.0"
+google-storage1 = "3.1.0"
+once_cell = "=1.12.0"
+os_pipe = "=1.0.1"
+pretty_assertions = "=1.2.1"
+test_util = { path = "../test_util" }
+ 10  
+cli/bench/README.md
+@@ -0,0 +1,10 @@
+benchmark filtering:
+
+```
+cargo bench --bench deno_bench -- bundle
+```
+
+benchmark plots:
+
+new: https://denoland.grafana.net/d/vErC9VCnz/benchmarks?orgId=1 old:
+deno.land/benchmarks
+  4  
+cli/bench/http.rs
+@@ -44,7 +44,7 @@ pub fn benchmark(
+    if name.starts_with("node") {
+      // node <path> <port>
+      res.insert(
+        name,
+        file_stem.to_string(),
+        run(
+          &["node", path, &port.to_string()],
+          port,
+@@ -56,7 +56,7 @@ pub fn benchmark(
+    } else {
+      // deno run -A --unstable <path> <addr>
+      res.insert(
+        name,
+        file_stem.to_string(),
+        run(
+          &[
+            deno_exe,
+  10  
+cli/bench/lsp.rs
+@@ -333,7 +333,7 @@ fn bench_startup_shutdown(deno_exe: &Path) -> Result<Duration, AnyError> {
+}
+
+/// Generate benchmarks for the LSP server.
+pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, i64>, AnyError> {
+  println!("-> Start benchmarking lsp");
+  let mut exec_times = HashMap::new();
+
+@@ -343,7 +343,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_startup_shutdown(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("startup_shutdown".to_string(), mean);
+
+@@ -353,7 +353,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_big_file_edits(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("big_file_edits".to_string(), mean);
+
+@@ -363,7 +363,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_find_replace(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("find_replace".to_string(), mean);
+
+@@ -373,7 +373,7 @@ pub fn benchmarks(deno_exe: &Path) -> Result<HashMap<String, u64>, AnyError> {
+    times.push(bench_code_lens(deno_exe)?);
+  }
+  let mean =
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as u64;
+    (times.iter().sum::<Duration>() / times.len() as u32).as_millis() as i64;
+  println!("      ({} runs, mean: {}ms)", times.len(), mean);
+  exec_times.insert("code_lens".to_string(), mean);
+
+  257  
+cli/bench/main.rs
+@@ -3,7 +3,6 @@
+use deno_core::error::AnyError;
+use deno_core::serde_json;
+use deno_core::serde_json::Value;
+use serde::Serialize;
+use std::collections::HashMap;
+use std::convert::From;
+use std::env;
+@@ -16,6 +15,7 @@ use std::time::SystemTime;
+
+mod http;
+mod lsp;
+mod metrics;
+
+fn read_json(filename: &str) -> Result<Value> {
+  let f = fs::File::open(filename)?;
+@@ -162,7 +162,7 @@ const RESULT_KEYS: &[&str] =
+fn run_exec_time(
+  deno_exe: &Path,
+  target_dir: &Path,
+) -> Result<HashMap<String, HashMap<String, f64>>> {
+) -> Result<HashMap<String, HashMap<String, i64>>> {
+  let hyperfine_exe = test_util::prebuilt_tool_path("hyperfine");
+
+  let benchmark_file = target_dir.join("hyperfine_results.json");
+@@ -203,7 +203,7 @@ fn run_exec_time(
+    true,
+  );
+
+  let mut results = HashMap::<String, HashMap<String, f64>>::new();
+  let mut results = HashMap::<String, HashMap<String, i64>>::new();
+  let hyperfine_results = read_json(benchmark_file)?;
+  for ((name, _, _), data) in EXEC_TIME_BENCHMARKS.iter().zip(
+    hyperfine_results
+@@ -220,15 +220,15 @@ fn run_exec_time(
+      data
+        .into_iter()
+        .filter(|(key, _)| RESULT_KEYS.contains(&key.as_str()))
+        .map(|(key, val)| (key, val.as_f64().unwrap()))
+        .map(|(key, val)| (key, val.as_f64().unwrap() as i64))
+        .collect(),
+    );
+  }
+
+  Ok(results)
+}
+
+fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> u64 {
+fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> i64 {
+  let mut size = 0;
+  let mut seen = std::collections::HashSet::new();
+  for entry in std::fs::read_dir(target_dir.join("deps")).unwrap() {
+@@ -247,18 +247,18 @@ fn rlib_size(target_dir: &std::path::Path, prefix: &str) -> u64 {
+    }
+  }
+  assert!(size > 0);
+  size
+  size as i64
+}
+
+const BINARY_TARGET_FILES: &[&str] =
+  &["CLI_SNAPSHOT.bin", "COMPILER_SNAPSHOT.bin"];
+fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, u64>> {
+  let mut sizes = HashMap::<String, u64>::new();
+fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, i64>> {
+  let mut sizes = HashMap::<String, i64>::new();
+  let mut mtimes = HashMap::<String, SystemTime>::new();
+
+  sizes.insert(
+    "deno".to_string(),
+    test_util::deno_exe_path().metadata()?.len(),
+    test_util::deno_exe_path().metadata()?.len() as i64,
+  );
+
+  // add up size for everything in target/release/deps/libswc*
+@@ -294,7 +294,7 @@ fn get_binary_sizes(target_dir: &Path) -> Result<HashMap<String, u64>> {
+    }
+
+    mtimes.insert(filename.clone(), file_mtime);
+    sizes.insert(filename, meta.len());
+    sizes.insert(filename, meta.len() as i64);
+  }
+
+  Ok(sizes)
+@@ -304,8 +304,8 @@ const BUNDLES: &[(&str, &str)] = &[
+  ("file_server", "./test_util/std/http/file_server.ts"),
+  ("gist", "./test_util/std/examples/gist.ts"),
+];
+fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+  let mut sizes = HashMap::<String, u64>::new();
+fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, i64>> {
+  let mut sizes = HashMap::<String, i64>::new();
+
+  for (name, url) in BUNDLES {
+    let path = format!("{}.bundle.js", name);
+@@ -325,74 +325,15 @@ fn bundle_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+
+    let file = PathBuf::from(path);
+    assert!(file.is_file());
+    sizes.insert(name.to_string(), file.metadata()?.len());
+    sizes.insert(name.to_string(), file.metadata()?.len() as i64);
+    let _ = fs::remove_file(file);
+  }
+
+  Ok(sizes)
+}
+
+fn run_http(target_dir: &Path, new_data: &mut BenchResult) -> Result<()> {
+  let stats = http::benchmark(target_dir)?;
+
+  new_data.req_per_sec = stats
+    .iter()
+    .map(|(name, result)| (name.clone(), result.requests))
+    .collect();
+
+  new_data.max_latency = stats
+    .iter()
+    .map(|(name, result)| (name.clone(), result.latency))
+    .collect();
+
+  Ok(())
+}
+
+fn run_strace_benchmarks(
+  deno_exe: &Path,
+  new_data: &mut BenchResult,
+) -> Result<()> {
+  use std::io::Read;
+
+  let mut thread_count = HashMap::<String, u64>::new();
+  let mut syscall_count = HashMap::<String, u64>::new();
+
+  for (name, args, expected_exit_code) in EXEC_TIME_BENCHMARKS {
+    let mut file = secure_tempfile::NamedTempFile::new()?;
+
+    let exit_status = Command::new("strace")
+      .args(&[
+        "-c",
+        "-f",
+        "-o",
+        file.path().to_str().unwrap(),
+        deno_exe.to_str().unwrap(),
+      ])
+      .args(args.iter())
+      .stdout(Stdio::null())
+      .spawn()?
+      .wait()?;
+    let expected_exit_code = expected_exit_code.unwrap_or(0);
+    assert_eq!(exit_status.code(), Some(expected_exit_code));
+
+    let mut output = String::new();
+    file.as_file_mut().read_to_string(&mut output)?;
+
+    let strace_result = test_util::parse_strace_output(&output);
+    let clone = strace_result.get("clone").map(|d| d.calls).unwrap_or(0) + 1;
+    let total = strace_result.get("total").unwrap().calls;
+    thread_count.insert(name.to_string(), clone);
+    syscall_count.insert(name.to_string(), total);
+  }
+
+  new_data.thread_count = thread_count;
+  new_data.syscall_count = syscall_count;
+
+  Ok(())
+}
+
+fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+  let mut results = HashMap::<String, u64>::new();
+fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, i64>> {
+  let mut results = HashMap::<String, i64>::new();
+
+  for (name, args, return_code) in EXEC_TIME_BENCHMARKS {
+    let proc = Command::new("time")
+@@ -408,7 +349,10 @@ fn run_max_mem_benchmark(deno_exe: &Path) -> Result<HashMap<String, u64>> {
+    }
+    let out = String::from_utf8(proc_result.stderr)?;
+
+    results.insert(name.to_string(), test_util::parse_max_mem(&out).unwrap());
+    results.insert(
+      name.to_string(),
+      test_util::parse_max_mem(&out).unwrap() as i64,
+    );
+  }
+
+  Ok(results)
+@@ -429,43 +373,60 @@ fn cargo_deps() -> usize {
+  count
+}
+
+#[derive(Default, Serialize)]
+// TODO(@littledivy): Remove this, denoland/benchmark_data is deprecated.
+#[derive(Default, serde::Serialize)]
+struct BenchResult {
+  created_at: String,
+  sha1: String,
+
+  // TODO(ry) The "benchmark" benchmark should actually be called "exec_time".
+  // When this is changed, the historical data in gh-pages branch needs to be
+  // changed too.
+  benchmark: HashMap<String, HashMap<String, f64>>,
+  binary_size: HashMap<String, u64>,
+  bundle_size: HashMap<String, u64>,
+  benchmark: HashMap<String, HashMap<String, i64>>,
+  binary_size: HashMap<String, i64>,
+  bundle_size: HashMap<String, i64>,
+  cargo_deps: usize,
+  max_latency: HashMap<String, f64>,
+  max_memory: HashMap<String, u64>,
+  lsp_exec_time: HashMap<String, u64>,
+  req_per_sec: HashMap<String, u64>,
+  syscall_count: HashMap<String, u64>,
+  thread_count: HashMap<String, u64>,
+  max_latency: HashMap<String, i64>,
+  max_memory: HashMap<String, i64>,
+  lsp_exec_time: HashMap<String, i64>,
+  req_per_sec: HashMap<String, i64>,
+  syscall_count: HashMap<String, i64>,
+  thread_count: HashMap<String, i64>,
+}
+
+/*
+ TODO(SyrupThinker)
+ Switch to the #[bench] attribute once
+ it is stabilized.
+ Before that the #[test] tests won't be run because
+ we replace the harness with our own runner here.
+*/
+fn main() -> Result<()> {
+  if !env::args().any(|s| s == "--bench") {
+#[tokio::main]
+async fn main() -> Result<()> {
+  let mut args = env::args();
+
+  let mut benchmarks = vec![
+    "bundle",
+    "exec_time",
+    "binary_size",
+    "cargo_deps",
+    "lsp",
+    "http",
+    "strace",
+    "mem_usage",
+  ];
+
+  let mut found_bench = false;
+  let filter = args.nth(1);
+  if let Some(filter) = filter {
+    if filter != "--bench" {
+      benchmarks.retain(|s| s == &filter);
+    } else {
+      found_bench = true;
+    }
+  }
+
+  if !found_bench && !args.any(|s| s == "--bench") {
+    return Ok(());
+  }
+
+  println!("Starting Deno benchmark");
+
+  let target_dir = test_util::target_dir();
+  let deno_exe = test_util::deno_exe_path();
+
+  env::set_current_dir(&test_util::root_path())?;
+
+  let mut new_data = BenchResult {
+@@ -481,27 +442,107 @@ fn main() -> Result<()> {
+    .0
+    .trim()
+    .to_string(),
+    benchmark: run_exec_time(&deno_exe, &target_dir)?,
+    binary_size: get_binary_sizes(&target_dir)?,
+    bundle_size: bundle_benchmark(&deno_exe)?,
+    cargo_deps: cargo_deps(),
+    lsp_exec_time: lsp::benchmarks(&deno_exe)?,
+    ..Default::default()
+  };
+
+  if cfg!(not(target_os = "windows")) {
+    run_http(&target_dir, &mut new_data)?;
+  let mut reporter = metrics::Reporter::new().await;
+
+  if benchmarks.contains(&"bundle") {
+    let bundle_size = bundle_benchmark(&deno_exe)?;
+    reporter.write("bundle_size", &bundle_size);
+    new_data.bundle_size = bundle_size;
+  }
+
+  if benchmarks.contains(&"exec_time") {
+    let exec_times = run_exec_time(&deno_exe, &target_dir)?;
+    for (name, data) in exec_times.iter() {
+      reporter.write_one("exec_time", name, *data.get("mean").unwrap());
+    }
+    new_data.benchmark = exec_times;
+  }
+
+  if benchmarks.contains(&"binary_size") {
+    let binary_sizes = get_binary_sizes(&target_dir)?;
+    reporter.write("binary_size", &binary_sizes);
+    new_data.binary_size = binary_sizes;
+  }
+
+  if benchmarks.contains(&"cargo_deps") {
+    let cargo_deps = cargo_deps();
+    reporter.write_one("cargo_deps", "cargo_deps", cargo_deps as i64);
+    new_data.cargo_deps = cargo_deps;
+  }
+
+  if benchmarks.contains(&"lsp") {
+    let lsp_exec_times = lsp::benchmarks(&deno_exe)?;
+    reporter.write("lsp_exec_time", &lsp_exec_times);
+    new_data.lsp_exec_time = lsp_exec_times;
+  }
+
+  if cfg!(target_os = "linux") {
+    run_strace_benchmarks(&deno_exe, &mut new_data)?;
+    new_data.max_memory = run_max_mem_benchmark(&deno_exe)?;
+  if benchmarks.contains(&"http") && cfg!(not(target_os = "windows")) {
+    let stats = http::benchmark(&target_dir)?;
+    let req_per_sec = stats
+      .iter()
+      .map(|(name, result)| (name.clone(), result.requests as i64))
+      .collect();
+    reporter.write("req_per_sec", &req_per_sec);
+    new_data.req_per_sec = req_per_sec;
+    let max_latency = stats
+      .iter()
+      .map(|(name, result)| (name.clone(), result.latency as i64))
+      .collect();
+
+    reporter.write("max_latency", &max_latency);
+    new_data.max_latency = max_latency;
+  }
+
+  println!("===== <BENCHMARK RESULTS>");
+  serde_json::to_writer_pretty(std::io::stdout(), &new_data)?;
+  println!("\n===== </BENCHMARK RESULTS>");
+  if cfg!(target_os = "linux") && benchmarks.contains(&"strace") {
+    use std::io::Read;
+
+    let mut thread_count = HashMap::<String, i64>::new();
+    let mut syscall_count = HashMap::<String, i64>::new();
+
+    for (name, args, expected_exit_code) in EXEC_TIME_BENCHMARKS {
+      let mut file = secure_tempfile::NamedTempFile::new()?;
+
+      let exit_status = Command::new("strace")
+        .args(&[
+          "-c",
+          "-f",
+          "-o",
+          file.path().to_str().unwrap(),
+          deno_exe.to_str().unwrap(),
+        ])
+        .args(args.iter())
+        .stdout(Stdio::null())
+        .spawn()?
+        .wait()?;
+      let expected_exit_code = expected_exit_code.unwrap_or(0);
+      assert_eq!(exit_status.code(), Some(expected_exit_code));
+
+      let mut output = String::new();
+      file.as_file_mut().read_to_string(&mut output)?;
+
+      let strace_result = test_util::parse_strace_output(&output);
+      let clone = strace_result.get("clone").map(|d| d.calls).unwrap_or(0) + 1;
+      let total = strace_result.get("total").unwrap().calls;
+      thread_count.insert(name.to_string(), clone as i64);
+      syscall_count.insert(name.to_string(), total as i64);
+    }
+
+    reporter.write("thread_count", &thread_count);
+    new_data.thread_count = thread_count;
+    reporter.write("syscall_count", &syscall_count);
+    new_data.syscall_count = syscall_count;
+  }
+
+  if benchmarks.contains(&"mem_usage") {
+    let max_memory = run_max_mem_benchmark(&deno_exe)?;
+    reporter.write("max_memory", &max_memory);
+    new_data.max_memory = max_memory;
+  }
+
+  reporter.submit().await;
+  if let Some(filename) = target_dir.join("bench.json").to_str() {
+    write_json(filename, &serde_json::to_value(&new_data)?)?;
+  } else {
+ 99  
+cli/bench/metrics.rs
+@@ -0,0 +1,99 @@
+// Copyright 2018-2022 the Deno authors. All rights reserved. MIT license.
+
+use google_storage1::api::Object;
+use google_storage1::hyper;
+use google_storage1::hyper_rustls;
+use google_storage1::oauth2;
+use google_storage1::Storage;
+use once_cell::sync::Lazy;
+use std::collections::HashMap;
+use std::io::Cursor;
+
+static GIT_HASH: Lazy<String> = Lazy::new(|| {
+  test_util::run_collect(&["git", "rev-parse", "HEAD"], None, None, None, true)
+    .0
+    .trim()
+    .to_string()
+});
+
+#[derive(serde::Serialize)]
+struct Metric {
+  name: String,
+  value: i64,
+  sha1: String,
+  #[serde(rename = "type")]
+  type_: String,
+  time: i64,
+}
+
+pub struct Reporter {
+  wtr: csv::Writer<Vec<u8>>,
+  gcloud_client: Option<Storage>,
+}
+
+impl Reporter {
+  pub async fn new() -> Self {
+    dotenv::dotenv().ok();
+    let gcloud_client =
+      match std::env::var("CI").map(|_| std::env::var("GOOGLE_SVC_KEY")) {
+        Ok(Ok(key_str)) => {
+          let secret = oauth2::parse_service_account_key(key_str)
+            .expect("Failed to load service account key");
+          let auth =
+            oauth2::authenticator::ServiceAccountAuthenticator::builder(secret)
+              .build()
+              .await
+              .unwrap();
+          let client = hyper::Client::builder().build(
+            hyper_rustls::HttpsConnectorBuilder::new()
+              .with_native_roots()
+              .https_or_http()
+              .enable_http1()
+              .enable_http2()
+              .build(),
+          );
+          Some(Storage::new(client, auth))
+        }
+        _ => None,
+      };
+    Self {
+      wtr: csv::Writer::from_writer(vec![]),
+      gcloud_client,
+    }
+  }
+
+  pub fn write_one(&mut self, type_: &str, name: &str, value: i64) {
+    self
+      .wtr
+      .serialize(Metric {
+        name: name.to_string(),
+        type_: type_.to_string(),
+        value,
+        sha1: GIT_HASH.clone(),
+        time: chrono::Utc::now().timestamp_millis(),
+      })
+      .unwrap();
+  }
+
+  pub fn write(&mut self, type_: &str, hashmap: &HashMap<String, i64>) {
+    for (name, value) in hashmap {
+      self.write_one(type_, name, *value);
+    }
+  }
+
+  pub async fn submit(mut self) {
+    self.wtr.flush().unwrap();
+    if let Some(client) = self.gcloud_client.take() {
+      let mut reader = Cursor::new(self.wtr.into_inner().unwrap());
+      let object: Object = Object::default();
+      client
+        .objects()
+        .insert(object, "deno_benchmark_data")
+        .name(&format!("{}.csv", *GIT_HASH))
+        .param("uploadType", "multipart")
+        .upload(&mut reader, "text/csv".parse().unwrap())
+        .await
+        .unwrap();
+    }
+  }
+}
+0 comments on commit ab11b45
+@zakwarlord7
+ 
+Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
+Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
+Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
+Directly mention a user or team
+Reference an issue, pull request, or discussion
+Add saved reply
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Styling with Markdown is supported
+ You’re not receiving notifications from this thread.
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+refactor(bench): continuous benchmarking improvements (#14821) · zakwarlord7/deno@ab11b45'":,'*''*'":<}.csv", *GIT_HASH))
+        .param("uploadType", "multipart")
+        .upload(&mut reader, "text/csv".parse().unwrap())
+        .await
+        .unwrap();
+    }
+  }
+}
+0 comments on commit ab11b45
+@zakwarlord7
+ 
+Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
+Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
+Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
+Directly mention a user or team
+Reference an issue, pull request, or discussion
+Add saved reply
+Leave a comment
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Styling with Markdown is supported
+ You’re not receiving notifications from this thread.
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+refactor(bench): continuous benchmarking improvements (#14821) · zakwarlord7/deno@ab11b45" %}
+
 						
 						
 						
